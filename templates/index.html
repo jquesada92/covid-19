@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+
+<html class="loading" lang="es" data-textdirection="ltr">
+<head>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimal-ui">
+    <meta name="description" content="Innovation Center web app">
+    <meta name="keywords" content="">
+
+    <title>PANAMA:</title>
+    <link rel="stylesheet" href="https://unpkg.com/rc-slider@6.1.2/assets/index.css">
+    <link rel="stylesheet" href="https://unpkg.com/react-virtualized-select@3.1.0/styles.css">
+    <link rel="stylesheet" href="https://unpkg.com/react-virtualized@9.9.0/styles.css">
+    <link rel="stylesheet" href="https://unpkg.com/react-select@1.0.0-rc.3/dist/react-select.min.css">
+    <link rel="stylesheet" href="https://unpkg.com/dash-core-components@0.28.0/dash_core_components/react-dates@12.3.0.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootswatch/4.4.1/cosmo/bootstrap.min.css">
+
+<style>
+    @font-face {
+    font-family: 'byom';
+    src: url('/../static/fonts/byom/byom.ttf')  format('truetype'), /* Safari, Android, iOS */
+}
+  ._dash-undo-redo {
+  display: none;
+}
+
+.container {
+      max-width: 1200px;
+      width: 100%;
+}
+
+table tr td { font-size: 12px !important; }
+
+
+</style>
+</head>
+<body class="vertical-layout vertical-menu-modern">
+
+<div class="container bg-faded p-0" align="center",id='container'>
+    <div class="app-content content" >
+         <div class="content-wrapper">
+             <div class="content-body">
+
+        
+                    {%app_entry%}
+                    {%config%}
+                    {%scripts%}
+                    {%renderer%}
+        
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+</body>
+</html>
