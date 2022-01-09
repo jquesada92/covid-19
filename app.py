@@ -4,8 +4,6 @@ from flask import Flask
 from flask_caching import Cache
 import dash
 from datetime import datetime, timedelta
-
-
 def create_app():
         server = Flask(__name__)
         app = dash.Dash(__name__,server=server)

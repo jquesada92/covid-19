@@ -22,44 +22,49 @@ navbar = dbc.Navbar(
         ),
 
     ],
+    sticky = 'top',
     color="primary",
     dark=True
 
 )
 
-map_covid = dbc.Card(
-    [
-        dbc.CardHeader([
+option_menu = html.Div([
         html.Label(['Indicator']),
         dcc.Dropdown(
             id='_indicator', clearable=False,
-            placeholder="Select a city",
+            placeholder="Select Indicator",
             value='cases', options=[
                 {'label': 'Weekly Count of %s Reproted'%c.capitalize(), 'value': c}
                 for c in ['cases','deaths']
-            ])]
-        ,
-        className='d-inline w-100'),
-        dbc.CardBody(
+            ]),
+           ]
+                    )
+
+map_covid = dbc.Col(
             [
+                option_menu,
                 
-             dcc.Loading(dcc.Graph(id='map',config=config,loading_state = {'is_loading':True}))], className= 'd-block'
-             )
-    ],className='card bg-light my-3')
+             dcc.Loading(dcc.Graph(id='map',config=config,loading_state = {'is_loading':True}))
+    ],className='w-65 px-1'
+    ,style={'background-color':"#f8f9fa"}
+    )
 
 
-dist = dbc.Card([
-    html.P("Log10 Scale:"),
-    dcc.RadioItems(
+dist =  dbc.Col([
+                     dcc.RadioItems(
                         id='dist-marginal',
-                        value='On',
-                        options=[{'label': x, 'value': x} 
-                                for x in ['On', 'Off']],
+                        value='log_scale',
+                        options=[{'label': 'Log Scale', 'value': 'log_scale'},
+                                {'label': 'None Scale', 'value': 'weekly_count'},
+                                ]
+                                ,labelStyle={'display': 'inline-block',
+                                              "margin-left": "15px"}
                     ),
-                    dcc.Loading(dcc.Graph(id="dist",config=config,loading_state = {'is_loading':True}))
-                    
-                    
-                ],className='card bg-light my-3')
+                     dcc.Loading(dcc.Graph(id="dist",config=config,loading_state = {'is_loading':True}))     
+                    ]
+                  ,style={'background-color':"#f8f9fa"}
+                  ,className="w-35" )
+
 
 layout =html.Div([
 dcc.Interval(
@@ -68,7 +73,7 @@ dcc.Interval(
         n_intervals=0
     ),
 navbar,
+dbc.Row([
 map_covid,
-dist
-
+dist], class_name="mx-1 g-2 my-3")
 ])

@@ -1,437 +1,437 @@
-country_code,indicator,year,weeknum,last_year,country,continent,population,weekly_count,year_week,cumulative_count,source,rate_14_day,log_scale
-ABW,cases,2021,52,True,Aruba,America,106766,255.0,2021-52,22020.0,Epidemic intelligence national data,4844.23880261507,3.6852255440708652
-ABW,deaths,2021,52,True,Aruba,America,106766,3.0,2021-52,181.0,Epidemic intelligence national data,9.36627765393477,0.971567027862508
-AFG,cases,2021,52,True,Afghanistan,Asia,38928341,149.0,2021-52,158156.0,Epidemic intelligence national data,0.922207293652714,-0.03517144730789242
-AFG,deaths,2021,52,True,Afghanistan,Asia,38928341,7.0,2021-52,7361.0,Epidemic intelligence national data,0.667893861698345,-0.17529254791539325
-AGO,cases,2021,52,True,Angola,Africa,32866268,471.0,2021-52,82920.0,Epidemic intelligence national data,51.8829822722799,1.715024931698278
-AGO,deaths,2021,52,True,Angola,Africa,32866268,1.0,2021-52,1772.0,Epidemic intelligence national data,1.03449530685991,0.014728524765439092
-AIA,cases,2021,52,True,Anguilla,America,15002,69.0,2021-52,1674.0,Epidemic intelligence national data,546.593787495001,2.7376646912571676
-AIA,deaths,2021,52,True,Anguilla,America,15002,0.0,2021-52,5.0,Epidemic intelligence national data,66.657778962805,1.823850838873451
-ALB,cases,2021,52,True,Albania,Europe,2845955,1990.0,2021-52,210885.0,Epidemic intelligence national data,179.482809812523,2.254022859816475
-ALB,deaths,2021,52,True,Albania,Europe,2845955,32.0,2021-52,3220.0,Epidemic intelligence national data,18.9742986097813,1.2781657310480679
-AND,cases,2021,52,True,Andorra,Europe,76177,1095.0,2021-52,24502.0,Epidemic intelligence national data,4515.79873190071,3.6547345772802133
-AND,deaths,2021,52,True,Andorra,Europe,76177,3.0,2021-52,140.0,Epidemic intelligence national data,39.3819656851806,1.5952973894283458
-ARE,cases,2021,52,True,United Arab Emirates,Asia,9890400,1335.0,2021-52,769608.0,Epidemic intelligence national data,257.532556822778,2.4108321396091066
-ARE,deaths,2021,52,True,United Arab Emirates,Asia,9890400,0.0,2021-52,2169.0,Epidemic intelligence national data,1.8199466148993,0.26005864886711266
-ARG,cases,2021,52,True,Argentina,America,45195777,33077.0,2021-52,5739245.0,Epidemic intelligence national data,761.577790774567,2.8817142706118553
-ARG,deaths,2021,52,True,Argentina,America,45195777,138.0,2021-52,117245.0,Epidemic intelligence national data,6.96967772011089,0.8432126966613644
-ARM,cases,2021,52,True,Armenia,Europe,2963234,1104.0,2021-52,345036.0,Epidemic intelligence national data,44.8159004655049,1.651432126928217
-ARM,deaths,2021,52,True,Armenia,Europe,2963234,84.0,2021-52,7983.0,Epidemic intelligence national data,26.9975304009066,1.4313240388881625
-ASM,cases,2021,52,True,American Samoa,Oceania,55197,0.0,2021-52,11.0,Epidemic intelligence national data,1.8116926644564,0.25808452587318176
-ASM,deaths,2021,52,True,American Samoa,Oceania,55197,0.0,2021-52,0.0,Epidemic intelligence national data,0.0,-inf
-ATG,cases,2021,52,True,Antigua And Barbuda,America,97928,21.0,2021-52,4259.0,Epidemic intelligence national data,62.2906625275713,1.7944229500832942
-ATG,deaths,2021,52,True,Antigua And Barbuda,America,97928,0.0,2021-52,118.0,Epidemic intelligence national data,10.2115840209133,1.009093115072526
-AUS,cases,2021,52,True,Australia,Oceania,25499881,19975.0,2021-52,499958.0,Epidemic intelligence national data,977.377110112788,2.990062163760995
-AUS,deaths,2021,52,True,Australia,Oceania,25499881,40.0,2021-52,2266.0,Epidemic intelligence national data,4.70590431382797,0.6726430923259805
-AUT,cases,2021,52,True,Austria,Europe,8901064,23268.0,2021-52,1283321.0,TESSy COVID-19,426.083892891906,2.6294951170204905
-AUT,deaths,2021,52,True,Austria,Europe,8901064,81.0,2021-52,13283.0,TESSy COVID-19,19.9976092745766,1.3009780786179779
-AZE,cases,2021,52,True,Azerbaijan,Europe,10139175,5838.0,2021-52,617679.0,Epidemic intelligence national data,72.5995951347126,1.8609341987820427
-AZE,deaths,2021,52,True,Azerbaijan,Europe,10139175,111.0,2021-52,8375.0,Epidemic intelligence national data,17.3584142694056,1.2395100488645545
-BDI,cases,2021,52,True,Burundi,Africa,11890781,1446.0,2021-52,27366.0,Epidemic intelligence national data,43.3445036116635,1.636934033704594
-BDI,deaths,2021,52,True,Burundi,Africa,11890781,0.0,2021-52,14.0,Epidemic intelligence national data,0.0,-inf
-BEL,cases,2021,52,True,Belgium,Europe,11522440,77857.0,2021-52,2132409.0,TESSy COVID-19,1067.5343069697,3.02838184068837
-BEL,deaths,2021,52,True,Belgium,Europe,11522440,155.0,2021-52,27980.0,TESSy COVID-19,32.3716157341674,1.5101643764776758
-BEN,cases,2021,52,True,Benin,Africa,12123198,10.0,2021-52,24935.0,Epidemic intelligence national data,0.230962160314465,-0.6364591669162886
-BEN,deaths,2021,52,True,Benin,Africa,12123198,0.0,2021-52,161.0,Epidemic intelligence national data,0.0,-inf
-BES,cases,2021,52,True,"Bonaire, Saint Eustatius And Saba",America,26221,32.0,2021-52,3648.0,Epidemic intelligence national data,1819.15258762061,3.2598691285205117
-BES,deaths,2021,52,True,"Bonaire, Saint Eustatius And Saba",America,26221,0.0,2021-52,23.0,Epidemic intelligence national data,38.1373708096564,1.581350749480398
-BFA,cases,2021,52,True,Burkina Faso,Africa,20903278,338.0,2021-52,17632.0,Epidemic intelligence national data,4.59258112531441,0.6620568366088116
-BFA,deaths,2021,52,True,Burkina Faso,Africa,20903278,6.0,2021-52,318.0,Epidemic intelligence national data,1.05246650788455,0.022208284391448577
-BGD,cases,2021,52,True,Bangladesh,Asia,164689383,1373.0,2021-52,1584023.0,Epidemic intelligence national data,1.7851788296517,0.2516817279220415
-BGD,deaths,2021,52,True,Bangladesh,Asia,164689383,17.0,2021-52,28062.0,Epidemic intelligence national data,0.0850085156976998,-1.0705375668118788
-BGR,cases,2021,52,True,Bulgaria,Europe,6951482,14302.0,2021-52,748184.0,TESSy COVID-19,343.049151245734,2.5353563491550686
-BGR,deaths,2021,52,True,Bulgaria,Europe,6951482,455.0,2021-52,30983.0,TESSy COVID-19,134.64754709859,2.1291984461897857
-BHR,cases,2021,52,True,Bahrain,Asia,1701583,434.0,2021-52,283344.0,Epidemic intelligence national data,284.734861596525,2.4544406433749706
-BHR,deaths,2021,52,True,Bahrain,Asia,1701583,0.0,2021-52,1395.0,Epidemic intelligence national data,0.587688052830805,-0.23085313801181365
-BHS,cases,2021,52,True,Bahamas,America,393248,205.0,2021-52,23539.0,Epidemic intelligence national data,108.582878997477,2.0357613524802955
-BHS,deaths,2021,52,True,Bahamas,America,393248,5.0,2021-52,713.0,Epidemic intelligence national data,0.0,-inf
-BIH,cases,2021,52,True,Bosnia And Herzegovina,Europe,3280815,3230.0,2021-52,292313.0,Epidemic intelligence national data,218.848060619084,2.3401427023488948
-BIH,deaths,2021,52,True,Bosnia And Herzegovina,Europe,3280815,189.0,2021-52,13464.0,Epidemic intelligence national data,84.1254383438262,1.9249273401718126
-BLR,cases,2021,52,True,Belarus,Europe,9449321,9728.0,2021-52,701699.0,Epidemic intelligence national data,171.832452300012,2.2351051881556008
-BLR,deaths,2021,52,True,Belarus,Europe,9449321,113.0,2021-52,5624.0,Epidemic intelligence national data,23.8112346908312,1.3767819155859902
-BLZ,cases,2021,52,True,Belize,America,397621,189.0,2021-52,33457.0,Epidemic intelligence national data,543.985352886291,2.7355872062307207
-BLZ,deaths,2021,52,True,Belize,America,397621,5.0,2021-52,605.0,Epidemic intelligence national data,35.2094079538053,1.546658722469868
-BMU,cases,2021,52,True,Bermuda,America,62273,133.0,2021-52,6420.0,Epidemic intelligence national data,807.733688757568,2.9072681967062635
-BMU,deaths,2021,52,True,Bermuda,America,62273,0.0,2021-52,110.0,Epidemic intelligence national data,64.2332953286336,1.8077602029782982
-BOL,cases,2021,52,True,Bolivia,America,11673029,11639.0,2021-52,580690.0,Epidemic intelligence national data,136.579802894347,2.135386481629134
-BOL,deaths,2021,52,True,Bolivia,America,11673029,123.0,2021-52,19576.0,Epidemic intelligence national data,11.6507891824821,1.066355343901868
-BRA,cases,2021,52,True,Brazil,America,212559409,45981.0,2021-52,22246276.0,Epidemic intelligence national data,15.2964294325828,1.1845900675041436
-BRA,deaths,2021,52,True,Brazil,America,212559409,1552.0,2021-52,618534.0,Epidemic intelligence national data,3.43903854192594,0.5364370430659685
-BRB,cases,2021,52,True,Barbados,America,287371,378.0,2021-52,29160.0,Epidemic intelligence national data,667.429907680316,2.8244056635856443
-BRB,deaths,2021,52,True,Barbados,America,287371,3.0,2021-52,262.0,Epidemic intelligence national data,20.8789335040766,1.3197083111346426
-BRN,cases,2021,52,True,Brunei Darussalam,Asia,437483,28.0,2021-52,15461.0,Epidemic intelligence national data,19.4293263966828,1.2884577441265594
-BRN,deaths,2021,52,True,Brunei Darussalam,Asia,437483,0.0,2021-52,57.0,Epidemic intelligence national data,0.0,-inf
-BTN,cases,2021,52,True,Bhutan,Asia,771612,8.0,2021-52,2660.0,Epidemic intelligence national data,0.388796441734965,-0.41027771839067373
-BTN,deaths,2021,52,True,Bhutan,Asia,771612,0.0,2021-52,3.0,Epidemic intelligence national data,0.0,-inf
-BWA,cases,2021,52,True,Botswana,Africa,2351625,3774.0,2021-52,219509.0,Epidemic intelligence national data,835.37979057035,2.921883964644756
-BWA,deaths,2021,52,True,Botswana,Africa,2351625,4.0,2021-52,2444.0,Epidemic intelligence national data,8.0795194812098,0.9073855324497602
-CAF,cases,2021,52,True,Central African Republic,Africa,4829764,0.0,2021-52,12163.0,Epidemic intelligence national data,4.18239897435982,0.6214254593994162
-CAF,deaths,2021,52,True,Central African Republic,Africa,4829764,0.0,2021-52,101.0,Epidemic intelligence national data,0.0,-inf
-CAN,cases,2021,52,True,Canada,America,37742157,45093.0,2021-52,2142310.0,Epidemic intelligence national data,679.07618528533,2.8319185003378675
-CAN,deaths,2021,52,True,Canada,America,37742157,109.0,2021-52,30280.0,Epidemic intelligence national data,6.09398132703438,0.7849011191386479
-CHE,cases,2021,52,True,Switzerland,Europe,8606033,34623.0,2021-52,1371038.0,Epidemic intelligence national data,2336.38425509175,3.3685442708642617
-CHE,deaths,2021,52,True,Switzerland,Europe,8606033,77.0,2021-52,11922.0,Epidemic intelligence national data,45.8980345532024,1.6617940885661397
-CHL,cases,2021,52,True,Chile,America,19116209,8737.0,2021-52,1811297.0,Epidemic intelligence national data,96.2272383609114,1.9832980220943608
-CHL,deaths,2021,52,True,Chile,America,19116209,169.0,2021-52,39173.0,Epidemic intelligence national data,15.0657486534072,1.1779907176864468
-CHN,cases,2021,52,True,China,Asia,1439323774,644.0,2021-52,115409.0,Epidemic intelligence national data,0.168134511755796,-0.7743431329214373
-CHN,deaths,2021,52,True,China,Asia,1439323774,0.0,2021-52,4849.0,Epidemic intelligence national data,0.0,-inf
-CIV,cases,2021,52,True,Cote Divoire,Africa,26378275,181.0,2021-52,71815.0,Epidemic intelligence national data,36.9167430394899,1.5672233786385072
-CIV,deaths,2021,52,True,Cote Divoire,Africa,26378275,0.0,2021-52,718.0,Epidemic intelligence national data,0.454919815643745,-0.3420651455237434
-CMR,cases,2021,52,True,Cameroon,Africa,26545864,113.0,2021-52,109367.0,Epidemic intelligence national data,6.42284613527742,0.807727518246334
-CMR,deaths,2021,52,True,Cameroon,Africa,26545864,13.0,2021-52,1851.0,Epidemic intelligence national data,0.565059777297134,-0.24790560602650105
-COD,cases,2021,52,True,Democratic Republic Of The Congo,Africa,89561404,7447.0,2021-52,77119.0,Epidemic intelligence national data,10.9656610564077,1.040034817910151
-COD,deaths,2021,52,True,Democratic Republic Of The Congo,Africa,89561404,8.0,2021-52,1225.0,Epidemic intelligence national data,1.1053868695493,0.04351430146508645
-COG,cases,2021,52,True,Congo,Africa,5518092,113.0,2021-52,21277.0,Epidemic intelligence national data,38.0203882066482,1.5800165469098668
-COG,deaths,2021,52,True,Congo,Africa,5518092,6.0,2021-52,369.0,Epidemic intelligence national data,0.724888240355543,-0.13972894561970944
-COL,cases,2021,52,True,Colombia,America,50882884,13201.0,2021-52,5191021.0,Epidemic intelligence national data,161.152422099345,2.2072368372853695
-COL,deaths,2021,52,True,Colombia,America,50882884,324.0,2021-52,130061.0,Epidemic intelligence national data,11.2808071177727,1.0523401736060918
-COM,cases,2021,52,True,Comoros,Africa,869595,108.0,2021-52,6907.0,Epidemic intelligence national data,256.441216888322,2.4089878290704894
-COM,deaths,2021,52,True,Comoros,Africa,869595,1.0,2021-52,158.0,Epidemic intelligence national data,6.89976368309385,0.8388342164059713
-CPV,cases,2021,52,True,Cape Verde,Africa,555988,86.0,2021-52,43567.0,Epidemic intelligence national data,895.343064958237,2.9519894740538684
-CPV,deaths,2021,52,True,Cape Verde,Africa,555988,0.0,2021-52,352.0,Epidemic intelligence national data,1.79859996978352,0.2549345817812935
-CRI,cases,2021,52,True,Costa Rica,America,5094114,314.0,2021-52,570556.0,Epidemic intelligence national data,39.6143470680083,1.5978525021886958
-CRI,deaths,2021,52,True,Costa Rica,America,5094114,7.0,2021-52,7353.0,Epidemic intelligence national data,2.55196487554067,0.4068746925946402
-CUB,cases,2021,52,True,Cuba,America,11326616,483.0,2021-52,967498.0,Epidemic intelligence national data,29.3291482645832,1.4672994510009196
-CUB,deaths,2021,52,True,Cuba,America,11326616,2.0,2021-52,8324.0,Epidemic intelligence national data,0.794588604398701,-0.09985766767513159
-CUW,cases,2021,52,True,Curaçao,America,164100,218.0,2021-52,22962.0,Epidemic intelligence national data,3141.37720901889,3.497120088566442
-CUW,deaths,2021,52,True,Curaçao,America,164100,2.0,2021-52,189.0,Epidemic intelligence national data,30.4692260816575,1.4838614232829253
-CYM,cases,2021,52,True,Cayman Islands,America,65720,374.0,2021-52,8943.0,Epidemic intelligence national data,1062.08155812538,3.0261578678601366
-CYM,deaths,2021,52,True,Cayman Islands,America,65720,0.0,2021-52,12.0,Epidemic intelligence national data,45.6482045039562,1.6594236999566385
-CYP,cases,2021,52,True,Cyprus,Europe,888005,20154.0,2021-52,169848.0,TESSy COVID-19,2917.88897585036,3.4650687631938775
-CYP,deaths,2021,52,True,Cyprus,Europe,888005,15.0,2021-52,767.0,TESSy COVID-19,28.1529946340392,1.449524597548508
-CZE,cases,2021,52,True,Czechia,Europe,10693939,35841.0,2021-52,2483794.0,TESSy COVID-19,714.853525908461,2.854217063610284
-CZE,deaths,2021,52,True,Czechia,Europe,10693939,379.0,2021-52,36301.0,TESSy COVID-19,83.7857780935538,1.923170307178424
-DEU,cases,2021,52,True,Germany,Europe,83166711,203028.0,2021-52,7217639.0,TESSy COVID-19,477.366478999031,2.6788519192855818
-DEU,deaths,2021,52,True,Germany,Europe,83166711,1935.0,2021-52,112222.0,Epidemic intelligence national data,46.5330413270762,1.6677614382715473
-DJI,cases,2021,52,True,Djibouti,Africa,988002,21.0,2021-52,13685.0,Epidemic intelligence national data,15.1821555017095,1.1813334353303153
-DJI,deaths,2021,52,True,Djibouti,Africa,988002,0.0,2021-52,189.0,Epidemic intelligence national data,0.0,-inf
-DMA,cases,2021,52,True,Dominica,America,71991,197.0,2021-52,6559.0,Epidemic intelligence national data,179.189065299829,2.2533115040714264
-DMA,deaths,2021,52,True,Dominica,America,71991,2.0,2021-52,45.0,Epidemic intelligence national data,13.890625217041,1.1427217937721772
-DNK,cases,2021,52,True,Denmark,Europe,5822763,119648.0,2021-52,821286.0,TESSy COVID-19,3350.35102751048,3.5250903119097425
-DNK,deaths,2021,52,True,Denmark,Europe,5822763,104.0,2021-52,3292.0,Epidemic intelligence national data,35.7218729321458,1.552934221290746
-DOM,cases,2021,52,True,Dominican Republic,America,10847904,1471.0,2021-52,424809.0,Epidemic intelligence national data,119.156659203474,2.0761183183946716
-DOM,deaths,2021,52,True,Dominican Republic,America,10847904,4.0,2021-52,4251.0,Epidemic intelligence national data,2.58114378593321,0.41181219815023634
-DZA,cases,2021,52,True,Algeria,Africa,43851043,1678.0,2021-52,217265.0,Epidemic intelligence national data,6.69311332001841,0.8256281780353338
-DZA,deaths,2021,52,True,Algeria,Africa,43851043,43.0,2021-52,6254.0,Epidemic intelligence national data,1.68753112668267,0.22725179218267794
-ECU,cases,2021,52,True,Ecuador,America,17643060,3575.0,2021-52,553201.0,Epidemic intelligence national data,91.6451001130189,1.962109249977293
-ECU,deaths,2021,52,True,Ecuador,America,17643060,36.0,2021-52,33686.0,Epidemic intelligence national data,5.04447641168822,0.7028160955847891
-EGY,cases,2021,52,True,Egypt,Africa,102334403,6132.0,2021-52,387159.0,Epidemic intelligence national data,11.5591625623692,1.062926371479308
-EGY,deaths,2021,52,True,Egypt,Africa,102334403,301.0,2021-52,21797.0,Epidemic intelligence national data,4.2605417847603,0.6294648289550073
-ERI,cases,2021,52,True,Eritrea,Africa,3546427,117.0,2021-52,7773.0,Epidemic intelligence national data,0.281973941660155,-0.5497910247164915
-ERI,deaths,2021,52,True,Eritrea,Africa,3546427,7.0,2021-52,76.0,Epidemic intelligence national data,1.69184364996093,0.22836022566715208
-ESH,cases,2021,52,True,Western Sahara,Africa,597330,0.0,2021-52,766.0,Epidemic intelligence national data,0.0,-inf
-ESH,deaths,2021,52,True,Western Sahara,Africa,597330,0.0,2021-52,1.0,Epidemic intelligence national data,0.0,-inf
-ESP,cases,2021,52,True,Spain,Europe,47332614,630190.0,2021-52,6659275.0,TESSy COVID-19,2280.72761838169,3.3580734216653854
-ESP,deaths,2021,52,True,Spain,Europe,47332614,231.0,2021-52,89553.0,TESSy COVID-19,12.1058177771462,1.082994132406907
-EST,cases,2021,52,True,Estonia,Europe,1328976,6140.0,2021-52,232949.0,TESSy COVID-19,807.764775285634,2.907284910690093
-EST,deaths,2021,52,True,Estonia,Europe,1328976,27.0,2021-52,1938.0,Epidemic intelligence national data,40.632787951024,1.6088766217407942
-ETH,cases,2021,52,True,Ethiopia,Africa,114963583,3260.0,2021-52,426656.0,Epidemic intelligence national data,43.7364587010132,1.6408436157187445
-ETH,deaths,2021,52,True,Ethiopia,Africa,114963583,37.0,2021-52,6958.0,Epidemic intelligence national data,0.800253415901277,-0.09677246338325635
-FIN,cases,2021,52,True,Finland,Europe,5525292,23487.0,2021-52,260292.0,Epidemic intelligence national data,850.163213093534,2.929502308939583
-FIN,deaths,2021,52,True,Finland,Europe,5525292,55.0,2021-52,1564.0,Epidemic intelligence national data,19.9084500873438,1.2990374506494513
-FJI,cases,2021,52,True,Fiji,Oceania,896444,58.0,2021-52,55009.0,Epidemic intelligence national data,263.039297490976,2.4200206359747676
-FJI,deaths,2021,52,True,Fiji,Oceania,896444,0.0,2021-52,702.0,Epidemic intelligence national data,5.57759324620389,0.7464468395517153
-FLK,cases,2021,52,True,Falkland Islands (Malvinas),America,3483,1.0,2021-52,81.0,Epidemic intelligence national data,0.0,-inf
-FLK,deaths,2021,52,True,Falkland Islands (Malvinas),America,3483,0.0,2021-52,0.0,Epidemic intelligence national data,0.0,-inf
-FRA,cases,2021,52,True,France,Europe,67320216,1121911.0,2021-52,10228050.0,TESSy COVID-19,2436.75243109737,3.386811408023498
-FRA,deaths,2021,52,True,France,Europe,67320216,1320.0,2021-52,128049.0,TESSy COVID-19,37.210219289849,1.5706622294434833
-FRO,cases,2021,52,True,Faroe Islands,Europe,48865,322.0,2021-52,6367.0,Epidemic intelligence national data,3339.8137726389,3.5237222513115283
-FRO,deaths,2021,52,True,Faroe Islands,Europe,48865,0.0,2021-52,15.0,Epidemic intelligence national data,40.929090350967,1.6120320925576683
-FSM,cases,2021,52,True,Micronesia (Federated States Of),Oceania,115021,0.0,2021-52,0.0,Epidemic intelligence national data,0.0,-inf
-FSM,deaths,2021,52,True,Micronesia (Federated States Of),Oceania,115021,0.0,2021-52,0.0,Epidemic intelligence national data,0.0,-inf
-GAB,cases,2021,52,True,Gabon,Africa,2225728,204.0,2021-52,37932.0,Epidemic intelligence national data,4.58277022169825,0.6611280824356612
-GAB,deaths,2021,52,True,Gabon,Africa,2225728,1.0,2021-52,290.0,Epidemic intelligence national data,1.79716479282284,0.2545879020017054
-GBR,cases,2021,52,True,United Kingdom,Europe,68059863,541872.0,2021-52,13235401.0,Epidemic intelligence national data,2753.47894837814,3.4398817604475327
-GBR,deaths,2021,52,True,United Kingdom,Europe,68059863,779.0,2021-52,148851.0,Epidemic intelligence national data,23.9935834134723,1.3800951141820472
-GEO,cases,2021,52,True,Georgia,Europe,3989175,19643.0,2021-52,938583.0,Epidemic intelligence national data,705.083131223875,2.848240324513913
-GEO,deaths,2021,52,True,Georgia,Europe,3989175,339.0,2021-52,13942.0,Epidemic intelligence national data,207.060357091379,2.3160969586497355
-GGY,cases,2021,52,True,Guernsey,Europe,64468,588.0,2021-52,8085.0,Epidemic intelligence national data,3518.02444623689,3.5462988529807085
-GGY,deaths,2021,52,True,Guernsey,Europe,64468,0.0,2021-52,24.0,Epidemic intelligence national data,15.5115716324378,1.1906558027598397
-GHA,cases,2021,52,True,Ghana,Africa,31072945,71.0,2021-52,146119.0,Epidemic intelligence national data,45.7246649778449,1.6601505321078573
-GHA,deaths,2021,52,True,Ghana,Africa,31072945,2.0,2021-52,1306.0,Epidemic intelligence national data,1.6412992073973,0.21518775977126683
-GIB,cases,2021,52,True,Gibraltar,Europe,33691,297.0,2021-52,8927.0,Epidemic intelligence national data,3279.80766376777,3.515848376329514
-GIB,deaths,2021,52,True,Gibraltar,Europe,33691,0.0,2021-52,100.0,Epidemic intelligence national data,0.0,-inf
-GIN,cases,2021,52,True,Guinea,Africa,13132792,0.0,2021-52,31238.0,Epidemic intelligence national data,3.22855947158837,0.5090087907247526
-GIN,deaths,2021,52,True,Guinea,Africa,13132792,0.0,2021-52,389.0,Epidemic intelligence national data,0.0761452705563295,-1.11835706586798
-GMB,cases,2021,52,True,Gambia,Africa,2416664,6.0,2021-52,10170.0,Epidemic intelligence national data,4.92414336457199,0.6923306887629613
-GMB,deaths,2021,52,True,Gambia,Africa,2416664,0.0,2021-52,343.0,Epidemic intelligence national data,0.413793560048066,-0.38321627262956987
-GNB,cases,2021,52,True,Guinea Bissau,Africa,1967998,8.0,2021-52,6484.0,Epidemic intelligence national data,1.42276567354235,0.1531333786033012
-GNB,deaths,2021,52,True,Guinea Bissau,Africa,1967998,0.0,2021-52,149.0,Epidemic intelligence national data,0.0,-inf
-GNQ,cases,2021,52,True,Equatorial Guinea,Africa,1402985,6.0,2021-52,13710.0,Epidemic intelligence national data,6.55744715731102,0.8167347995474541
-GNQ,deaths,2021,52,True,Equatorial Guinea,Africa,1402985,0.0,2021-52,175.0,Epidemic intelligence national data,0.0,-inf
-GRC,cases,2021,52,True,Greece,Europe,10718565,198401.0,2021-52,1281588.0,TESSy COVID-19,2283.27206113878,3.35855766252472
-GRC,deaths,2021,52,True,Greece,Europe,10718565,486.0,2021-52,20973.0,TESSy COVID-19,94.4156237332143,1.9750438665404506
-GRD,cases,2021,52,True,Grenada,America,112519,5.0,2021-52,5968.0,Epidemic intelligence national data,42.6594619575361,1.6300153736088
-GRD,deaths,2021,52,True,Grenada,America,112519,0.0,2021-52,200.0,Epidemic intelligence national data,0.0,-inf
-GRL,cases,2021,52,True,Greenland,America,56772,93.0,2021-52,2930.0,Epidemic intelligence national data,1692.73585570352,3.2285891935723563
-GRL,deaths,2021,52,True,Greenland,America,56772,0.0,2021-52,1.0,Epidemic intelligence national data,17.61431691679,1.2458658059038106
-GTM,cases,2021,52,True,Guatemala,America,17915567,1558.0,2021-52,628804.0,Epidemic intelligence national data,27.9589253301333,1.446520474220901
-GTM,deaths,2021,52,True,Guatemala,America,17915567,29.0,2021-52,16110.0,Epidemic intelligence national data,1.84197351945378,0.265283382409274
-GUM,cases,2021,52,True,Guam,Oceania,168783,65.0,2021-52,19689.0,Epidemic intelligence national data,177.150542412447,2.2483424864257415
-GUM,deaths,2021,52,True,Guam,Oceania,168783,1.0,2021-52,273.0,Epidemic intelligence national data,17.7743019142923,1.2497925528209732
-GUY,cases,2021,52,True,Guyana,America,786559,302.0,2021-52,39779.0,Epidemic intelligence national data,115.566664420597,2.0628325784961024
-GUY,deaths,2021,52,True,Guyana,America,786559,7.0,2021-52,1054.0,Epidemic intelligence national data,30.5126506721047,1.4844799369857395
-HND,cases,2021,52,True,Honduras,America,9904608,243.0,2021-52,379276.0,Epidemic intelligence national data,4.76545866328077,0.6781047067257785
-HND,deaths,2021,52,True,Honduras,America,9904608,7.0,2021-52,10432.0,Epidemic intelligence national data,0.403852429091591,-0.3937773005803465
-HRV,cases,2021,52,True,Croatia,Europe,4058165,23162.0,2021-52,722054.0,Epidemic intelligence national data,1141.50114645412,3.057476352005359
-HRV,deaths,2021,52,True,Croatia,Europe,4058165,305.0,2021-52,12653.0,Epidemic intelligence national data,150.314243013776,2.1770001340747216
-HTI,cases,2021,52,True,Haiti,America,11402533,123.0,2021-52,25974.0,Epidemic intelligence national data,0.499888928188149,-0.3011264821312685
-HTI,deaths,2021,52,True,Haiti,America,11402533,4.0,2021-52,766.0,Epidemic intelligence national data,0.0876998119628332,-1.0570013378037597
-HUN,cases,2021,52,True,Hungary,Europe,9769526,16961.0,2021-52,1262361.0,TESSy COVID-19,346.792669367992,2.5400699086234395
-HUN,deaths,2021,52,True,Hungary,Europe,9769526,582.0,2021-52,38276.0,TESSy COVID-19,143.814551494105,2.157802831205868
-IDN,cases,2021,52,True,Indonesia,Asia,273523621,1401.0,2021-52,4263168.0,Epidemic intelligence national data,0.959332137534111,-0.018031006463058757
-IDN,deaths,2021,52,True,Indonesia,Asia,273523621,66.0,2021-52,144097.0,Epidemic intelligence national data,0.34731918089078,-0.45927123187783303
-IMN,cases,2021,52,True,Isle Of Man,Europe,85032,515.0,2021-52,16594.0,Epidemic intelligence national data,4112.56938564305,3.614113238264461
-IMN,deaths,2021,52,True,Isle Of Man,Europe,85032,0.0,2021-52,67.0,Epidemic intelligence national data,0.0,-inf
-IND,cases,2021,52,True,India,Asia,1380004385,48978.0,2021-52,34922882.0,Epidemic intelligence national data,12.7567710591007,1.1057407614796906
-IND,deaths,2021,52,True,India,Asia,1380004385,1918.0,2021-52,481893.0,Epidemic intelligence national data,3.14419290776384,0.4975091837437163
-IRL,cases,2021,52,True,Ireland,Europe,4964440,74882.0,2021-52,772490.0,TESSy COVID-19,2238.33906744769,3.3499258748499416
-IRL,deaths,2021,52,True,Ireland,Europe,4964440,38.0,2021-52,5911.0,Epidemic intelligence national data,15.3088767313131,1.1849433260810893
-IRN,cases,2021,52,True,Iran,Asia,83992953,16166.0,2021-52,6196913.0,Epidemic intelligence national data,30.8763998332098,1.4896266561805127
-IRN,deaths,2021,52,True,Iran,Asia,83992953,361.0,2021-52,131680.0,Epidemic intelligence national data,7.10773914568762,0.8517314808007862
-IRQ,cases,2021,52,True,Iraq,Asia,40222503,2643.0,2021-52,2094349.0,Epidemic intelligence national data,9.61899362652792,0.983129636974572
-IRQ,deaths,2021,52,True,Iraq,Asia,40222503,85.0,2021-52,24174.0,Epidemic intelligence national data,2.75964924410597,0.44085388603998477
-ISL,cases,2021,52,True,Iceland,Europe,364134,6853.0,2021-52,31059.0,TESSy COVID-19,2793.47712655231,3.446145119636479
-ISL,deaths,2021,52,True,Iceland,Europe,364134,1.0,2021-52,38.0,TESSy COVID-19,2.7462417681403,0.4387387681328083
-ISR,cases,2021,52,True,Israel,Asia,8655541,5725.0,2021-52,1399630.0,Epidemic intelligence national data,501.747955442647,2.700485611469866
-ISR,deaths,2021,52,True,Israel,Asia,8655541,16.0,2021-52,8244.0,Epidemic intelligence national data,1.3863951427184,0.14188702814333085
-ITA,cases,2021,52,True,Italy,Europe,59641488,478107.0,2021-52,6188236.0,TESSy COVID-19,1269.58603044914,3.103662135129723
-ITA,deaths,2021,52,True,Italy,Europe,59641488,688.0,2021-52,138087.0,TESSy COVID-19,26.6928283211177,1.4263945932396143
-JAM,cases,2021,52,True,Jamaica,America,2961161,287.0,2021-52,95946.0,Epidemic intelligence national data,130.252964968808,2.114787617997946
-JAM,deaths,2021,52,True,Jamaica,America,2961161,21.0,2021-52,2477.0,Epidemic intelligence national data,9.45575063294431,0.9756960104741229
-JEY,cases,2021,52,True,Jersey,Europe,107796,873.0,2021-52,19422.0,Epidemic intelligence national data,2722.73553749675,3.4350054598549726
-JEY,deaths,2021,52,True,Jersey,Europe,107796,3.0,2021-52,89.0,Epidemic intelligence national data,18.5535641396712,1.2684273499353205
-JOR,cases,2021,52,True,Jordan,Asia,10203140,30210.0,2021-52,1065571.0,Epidemic intelligence national data,248.237307338721,2.394867051754818
-JOR,deaths,2021,52,True,Jordan,Asia,10203140,286.0,2021-52,12710.0,Epidemic intelligence national data,43.3199975693757,1.6366884235856292
-JPN,cases,2021,52,True,Japan,Asia,126476458,1144.0,2021-52,1734808.0,Epidemic intelligence national data,3.82996177834139,0.5831944398855283
-JPN,deaths,2021,52,True,Japan,Asia,126476458,6.0,2021-52,18395.0,Epidemic intelligence national data,0.126505756510038,-0.8978897119295604
-KAZ,cases,2021,52,True,Kazakhstan,Asia,18776707,3125.0,2021-52,1073789.0,Epidemic intelligence national data,36.5079989797998,1.5623880297219348
-KAZ,deaths,2021,52,True,Kazakhstan,Asia,18776707,67.0,2021-52,18244.0,Epidemic intelligence national data,6.81695677522156,0.8335905402442721
-KEN,cases,2021,52,True,Kenya,Africa,53771300,8392.0,2021-52,299732.0,Epidemic intelligence national data,65.0997837136168,1.8135795456781953
-KEN,deaths,2021,52,True,Kenya,Africa,53771300,5.0,2021-52,5394.0,Epidemic intelligence national data,0.762488539425307,-0.11776667959003395
-KGZ,cases,2021,52,True,Kyrgyzstan,Asia,6524191,278.0,2021-52,184827.0,Epidemic intelligence national data,8.55278455213834,0.9321075321254686
-KGZ,deaths,2021,52,True,Kyrgyzstan,Asia,6524191,16.0,2021-52,2805.0,Epidemic intelligence national data,2.91223846757399,0.4642269341407193
-KHM,cases,2021,52,True,Cambodia,Asia,16718971,46.0,2021-52,120510.0,Epidemic intelligence national data,0.562235558635756,-0.25008169086849596
-KHM,deaths,2021,52,True,Cambodia,Asia,16718971,16.0,2021-52,3013.0,Epidemic intelligence national data,0.478498347775111,-0.3201195574762515
-KNA,cases,2021,52,True,Saint Kitts And Nevis,America,53192,5.0,2021-52,3252.0,Epidemic intelligence national data,847.87186043014,2.9283302219346266
-KNA,deaths,2021,52,True,Saint Kitts And Nevis,America,53192,0.0,2021-52,28.0,Epidemic intelligence national data,0.0,-inf
-KOR,cases,2021,52,True,South Korea,Asia,51269183,47326.0,2021-52,642207.0,Epidemic intelligence national data,140.031488311409,2.1462257046941726
-KOR,deaths,2021,52,True,South Korea,Asia,51269183,483.0,2021-52,5730.0,Epidemic intelligence national data,18.6076692503565,1.269691977907714
-KWT,cases,2021,52,True,Kuwait,Asia,4270563,387.0,2021-52,418332.0,Epidemic intelligence national data,99.1438365386484,1.9962657206547305
-KWT,deaths,2021,52,True,Kuwait,Asia,4270563,0.0,2021-52,2468.0,Epidemic intelligence national data,0.468322326587853,-0.3294551373646812
-LAO,cases,2021,52,True,Laos,Asia,7275556,5234.0,2021-52,107740.0,Epidemic intelligence national data,181.237007865791,2.2582468835772054
-LAO,deaths,2021,52,True,Laos,Asia,7275556,15.0,2021-52,342.0,Epidemic intelligence national data,10.9957232134561,1.0412237991614632
-LBN,cases,2021,52,True,Lebanon,Asia,6825442,10889.0,2021-52,732733.0,Epidemic intelligence national data,465.757382452301,2.668159747374802
-LBN,deaths,2021,52,True,Lebanon,Asia,6825442,88.0,2021-52,9154.0,Epidemic intelligence national data,31.9393234899659,1.5043257130646341
-LBR,cases,2021,52,True,Liberia,Africa,5057677,77.0,2021-52,6404.0,Epidemic intelligence national data,9.64869840442559,0.9844687315923555
-LBR,deaths,2021,52,True,Liberia,Africa,5057677,0.0,2021-52,287.0,Epidemic intelligence national data,0.0,-inf
-LBY,cases,2021,52,True,Libya,Africa,6871287,4236.0,2021-52,390294.0,Epidemic intelligence national data,115.742509372698,2.0634928939157415
-LBY,deaths,2021,52,True,Libya,Africa,6871287,54.0,2021-52,5727.0,Epidemic intelligence national data,17.46397727238,1.2421431575106123
-LCA,cases,2021,52,True,Saint Lucia,America,183629,80.0,2021-52,13816.0,Epidemic intelligence national data,353.974590070196,2.548972087482354
-LCA,deaths,2021,52,True,Saint Lucia,America,183629,10.0,2021-52,301.0,Epidemic intelligence national data,43.5661033932549,1.639148717831442
-LIE,cases,2021,52,True,Liechtenstein,Europe,38747,295.0,2021-52,6238.0,TESSy COVID-19,1450.43487237722,3.161498232826927
-LIE,deaths,2021,52,True,Liechtenstein,Europe,38747,0.0,2021-52,68.0,TESSy COVID-19,25.8084496864273,1.4117619172578642
-LKA,cases,2021,52,True,Sri Lanka,Asia,21413250,7497.0,2021-52,587935.0,Epidemic intelligence national data,38.5275471962453,1.5857713611271034
-LKA,deaths,2021,52,True,Sri Lanka,Asia,21413250,157.0,2021-52,15019.0,Epidemic intelligence national data,12.4689152744212,1.095828673941753
-LSO,cases,2021,52,True,Lesotho,Africa,2142252,2426.0,2021-52,29756.0,Epidemic intelligence national data,197.362401808938,2.295264421676356
-LSO,deaths,2021,52,True,Lesotho,Africa,2142252,1.0,2021-52,671.0,Epidemic intelligence national data,2.80079094336241,0.44728069342461074
-LTU,cases,2021,52,True,Lithuania,Europe,2794090,12260.0,2021-52,509376.0,TESSy COVID-19,774.098185813628,2.888796049639792
-LTU,deaths,2021,52,True,Lithuania,Europe,2794090,146.0,2021-52,7461.0,Epidemic intelligence national data,104.506297220204,2.019142460452696
-LUX,cases,2021,52,True,Luxembourg,Europe,626108,5640.0,2021-52,109652.0,TESSy COVID-19,1325.80960473273,3.122481160908179
-LUX,deaths,2021,52,True,Luxembourg,Europe,626108,8.0,2021-52,914.0,Epidemic intelligence national data,25.5546966338076,1.4074707297034892
-LVA,cases,2021,52,True,Latvia,Europe,1907675,5590.0,2021-52,277019.0,TESSy COVID-19,518.012764228708,2.7143404612236033
-LVA,deaths,2021,52,True,Latvia,Europe,1907675,72.0,2021-52,4887.0,TESSy COVID-19,73.387762590588,1.865623647348443
-MAR,cases,2021,52,True,Morocco,Africa,36910558,1332.0,2021-52,966777.0,Epidemic intelligence national data,37.8292845098684,1.577828127273327
-MAR,deaths,2021,52,True,Morocco,Africa,36910558,13.0,2021-52,14855.0,Epidemic intelligence national data,1.24625588158272,0.09560722093487177
-MCO,cases,2021,52,True,Monaco,Europe,39244,309.0,2021-52,5289.0,Epidemic intelligence national data,2206.70675772093,3.3437446249762957
-MCO,deaths,2021,52,True,Monaco,Europe,39244,1.0,2021-52,39.0,Epidemic intelligence national data,50.9632045663031,1.707256728622929
-MDA,cases,2021,52,True,Moldova,Europe,4033963,2541.0,2021-52,376844.0,Epidemic intelligence national data,115.122523434152,2.0611603005734116
-MDA,deaths,2021,52,True,Moldova,Europe,4033963,125.0,2021-52,10306.0,Epidemic intelligence national data,201.538784564955,2.3043586351009413
-MDG,cases,2021,52,True,Madagascar,Africa,27691019,994.0,2021-52,52434.0,Epidemic intelligence national data,23.9788936622376,1.379829141754103
-MDG,deaths,2021,52,True,Madagascar,Africa,27691019,8.0,2021-52,1067.0,Epidemic intelligence national data,3.14181287441968,0.49718031500470344
-MDV,cases,2021,52,True,Maldives,Asia,540542,838.0,2021-52,96052.0,Epidemic intelligence national data,387.573953550325,2.5883545831118093
-MDV,deaths,2021,52,True,Maldives,Asia,540542,1.0,2021-52,262.0,Epidemic intelligence national data,5.54998501504046,0.7442918105291582
-MEX,cases,2021,52,True,Mexico,America,128932753,15115.0,2021-52,3990587.0,Epidemic intelligence national data,43.8096594431673,1.641569877178904
-MEX,deaths,2021,52,True,Mexico,America,128932753,1195.0,2021-52,299544.0,Epidemic intelligence national data,12.626737288391,1.1012911446405658
-MHL,cases,2021,52,True,Marshall Islands,Oceania,59194,0.0,2021-52,4.0,Epidemic intelligence national data,0.0,-inf
-MHL,deaths,2021,52,True,Marshall Islands,Oceania,59194,0.0,2021-52,0.0,Epidemic intelligence national data,0.0,-inf
-MKD,cases,2021,52,True,North Macedonia,Europe,2076255,1877.0,2021-52,225730.0,Epidemic intelligence national data,214.087383293478,2.3305910739853513
-MKD,deaths,2021,52,True,North Macedonia,Europe,2076255,83.0,2021-52,7975.0,Epidemic intelligence national data,77.0618252574949,1.8868392913350438
-MLI,cases,2021,52,True,Mali,Africa,20250834,715.0,2021-52,21549.0,Epidemic intelligence national data,11.0760870391807,1.0443863599019374
-MLI,deaths,2021,52,True,Mali,Africa,20250834,10.0,2021-52,668.0,Epidemic intelligence national data,1.4320397866083,0.15595508421792748
-MLT,cases,2021,52,True,Malta,Europe,514564,7596.0,2021-52,54089.0,TESSy COVID-19,2443.4278340498,3.387999516788878
-MLT,deaths,2021,52,True,Malta,Europe,514564,4.0,2021-52,479.0,Epidemic intelligence national data,15.5471428238276,1.1916505882273158
-MMR,cases,2021,52,True,Myanmar,Asia,54409794,1592.0,2021-52,531025.0,Epidemic intelligence national data,5.09467100720874,0.7071161443057381
-MMR,deaths,2021,52,True,Myanmar,Asia,54409794,37.0,2021-52,19274.0,Epidemic intelligence national data,0.992468378027676,-0.0032833218110628402
-MNE,cases,2021,52,True,Montenegro,Europe,621873,1207.0,2021-52,173161.0,Epidemic intelligence national data,1956.34800031518,3.2914461107653223
-MNE,deaths,2021,52,True,Montenegro,Europe,621873,25.0,2021-52,2416.0,Epidemic intelligence national data,65.9298602769376,1.8190821553581529
-MNG,cases,2021,52,True,Mongolia,Asia,3278292,1073.0,2021-52,388190.0,Epidemic intelligence national data,54.6321072070456,1.7374479519468153
-MNG,deaths,2021,52,True,Mongolia,Asia,3278292,5.0,2021-52,1981.0,Epidemic intelligence national data,3.96547958510102,0.5982957184046204
-MNP,cases,2021,52,True,Northern Mariana Islands,Oceania,57557,297.0,2021-52,2963.0,Epidemic intelligence national data,1316.95536598502,3.1195710561805448
-MNP,deaths,2021,52,True,Northern Mariana Islands,Oceania,57557,0.0,2021-52,12.0,Epidemic intelligence national data,104.244488072693,2.018053100932135
-MOZ,cases,2021,52,True,Mozambique,Africa,31255435,6783.0,2021-52,192453.0,Epidemic intelligence national data,102.369395914663,2.0101701405076193
-MOZ,deaths,2021,52,True,Mozambique,Africa,31255435,8.0,2021-52,2019.0,Epidemic intelligence national data,2.14362718036079,0.33114925509198384
-MRT,cases,2021,52,True,Mauritania,Africa,4649660,305.0,2021-52,42182.0,Epidemic intelligence national data,45.1430857309997,1.6545912417187774
-MRT,deaths,2021,52,True,Mauritania,Africa,4649660,4.0,2021-52,872.0,Epidemic intelligence national data,4.08632029008573,0.6113324040892061
-MSR,cases,2021,52,True,Montserrat,America,4999,0.0,2021-52,53.0,Epidemic intelligence national data,180.03600720144,2.255359372686734
-MSR,deaths,2021,52,True,Montserrat,America,4999,0.0,2021-52,1.0,Epidemic intelligence national data,0.0,-inf
-MUS,cases,2021,52,True,Mauritius,Africa,1271767,3111.0,2021-52,68310.0,Epidemic intelligence national data,194.847012070607,2.289693750384305
-MUS,deaths,2021,52,True,Mauritius,Africa,1271767,60.0,2021-52,786.0,Epidemic intelligence national data,31.4523021905742,1.497652439672223
-MWI,cases,2021,52,True,Malawi,Africa,19129955,2476.0,2021-52,76066.0,Epidemic intelligence national data,59.2003483541911,1.7723242622610587
-MWI,deaths,2021,52,True,Malawi,Africa,19129955,3.0,2021-52,2371.0,Epidemic intelligence national data,3.13644229691079,0.4964373019598333
-MYS,cases,2021,52,True,Malaysia,Asia,32365998,27316.0,2021-52,2764354.0,Epidemic intelligence national data,140.267573396007,2.146957283837686
-MYS,deaths,2021,52,True,Malaysia,Asia,32365998,256.0,2021-52,31532.0,Epidemic intelligence national data,12.2659588621367,1.0887015038067989
-NAM,cases,2021,52,True,Namibia,Africa,2540916,6428.0,2021-52,149741.0,Epidemic intelligence national data,402.335220841618,2.6045880528238583
-NAM,deaths,2021,52,True,Namibia,Africa,2540916,5.0,2021-52,3656.0,Epidemic intelligence national data,28.7297966560091,1.458332552149772
-NCL,cases,2021,52,True,New Caledonia,Oceania,285491,130.0,2021-52,12854.0,Epidemic intelligence national data,117.341702540535,2.0694523852148574
-NCL,deaths,2021,52,True,New Caledonia,Oceania,285491,0.0,2021-52,281.0,Epidemic intelligence national data,3.50273738926971,0.5444075781780131
-NER,cases,2021,52,True,Niger,Africa,24206636,38.0,2021-52,7307.0,Epidemic intelligence national data,0.446158648397076,-0.35051068417585696
-NER,deaths,2021,52,True,Niger,Africa,24206636,4.0,2021-52,274.0,Epidemic intelligence national data,0.0826219719253844,-1.0829044439988258
-NGA,cases,2021,52,True,Nigeria,Africa,206139587,6424.0,2021-52,243450.0,Epidemic intelligence national data,9.48143938990234,0.9768742731650085
-NGA,deaths,2021,52,True,Nigeria,Africa,206139587,4.0,2021-52,3039.0,Epidemic intelligence national data,0.261958417526082,-0.5817676417802882
-NIC,cases,2021,52,True,Nicaragua,America,6624554,63.0,2021-52,17487.0,Epidemic intelligence national data,1.44915416192547,0.1611145884471887
-NIC,deaths,2021,52,True,Nicaragua,America,6624554,0.0,2021-52,212.0,Epidemic intelligence national data,0.301907117067806,-0.5201266489283989
-NLD,cases,2021,52,True,Netherlands,Europe,17407585,100933.0,2021-52,3165633.0,TESSy COVID-19,1069.31547368575,3.029105851390749
-NLD,deaths,2021,52,True,Netherlands,Europe,17407585,247.0,2021-52,20957.0,Epidemic intelligence national data,28.3784338838501,1.4529884244417726
-NOR,cases,2021,52,True,Norway,Europe,5367580,25104.0,2021-52,402572.0,TESSy COVID-19,892.022103070658,2.950375615724431
-NOR,deaths,2021,52,True,Norway,Europe,5367580,49.0,2021-52,1305.0,Epidemic intelligence national data,18.2577623435515,1.2614475496825537
-NPL,cases,2021,52,True,Nepal,Asia,29136808,1514.0,2021-52,828986.0,Epidemic intelligence national data,11.1542760620861,1.0474413888337752
-NPL,deaths,2021,52,True,Nepal,Asia,29136808,19.0,2021-52,11596.0,Epidemic intelligence national data,0.789379536701481,-0.10271413612750457
-NZL,cases,2021,52,True,New Zealand,Oceania,4822233,508.0,2021-52,13934.0,Epidemic intelligence national data,16.7764602000774,1.2247003308819964
-NZL,deaths,2021,52,True,New Zealand,Oceania,4822233,2.0,2021-52,51.0,Epidemic intelligence national data,0.414745616812792,-0.3822181950662937
-OMN,cases,2021,52,True,Oman,Asia,5106622,150.0,2021-52,306008.0,Epidemic intelligence national data,22.2064605525923,1.3464793426558845
-OMN,deaths,2021,52,True,Oman,Asia,5106622,0.0,2021-52,4117.0,Epidemic intelligence national data,0.783296668521774,-0.10607372057304093
-PAK,cases,2021,52,True,Pakistan,Asia,220892331,2174.0,2021-52,1295933.0,Epidemic intelligence national data,2.02179948021826,0.305738080556141
-PAK,deaths,2021,52,True,Pakistan,Asia,220892331,42.0,2021-52,28933.0,Epidemic intelligence national data,0.248990083770722,-0.6038179486850338
-PAN,cases,2021,52,True,Panama,America,4314768,2605.0,2021-52,498785.0,Epidemic intelligence national data,356.890567465041,2.552535069804869
-PAN,deaths,2021,52,True,Panama,America,4314768,12.0,2021-52,7433.0,Epidemic intelligence national data,8.11167599277644,0.90911059517472
-PER,cases,2021,52,True,Peru,America,32971846,10887.0,2021-52,2304674.0,Epidemic intelligence national data,116.672266393577,2.066967634248919
-PER,deaths,2021,52,True,Peru,America,32971846,447.0,2021-52,202818.0,Epidemic intelligence national data,15.8620175527934,1.20035842612902
-PHL,cases,2021,52,True,Philippines,Asia,109581085,774.0,2021-52,2851931.0,Epidemic intelligence national data,13.0989759774691,1.1172373456773281
-PHL,deaths,2021,52,True,Philippines,Asia,109581085,398.0,2021-52,51570.0,Epidemic intelligence national data,7.58342555195543,0.8798654275651421
-PLW,cases,2021,52,True,Palau,Oceania,18092,0.0,2021-52,10.0,Epidemic intelligence national data,11.054609772275,1.0435434165900987
-PLW,deaths,2021,52,True,Palau,Oceania,18092,0.0,2021-52,0.0,Epidemic intelligence national data,0.0,-inf
-PNG,cases,2021,52,True,Papua New Guinea,Oceania,8947027,50.0,2021-52,36192.0,Epidemic intelligence national data,2.07890285789905,0.3178341962751604
-PNG,deaths,2021,52,True,Papua New Guinea,Oceania,8947027,2.0,2021-52,590.0,Epidemic intelligence national data,0.111768970854788,-0.9516787479427544
-POL,cases,2021,52,True,Poland,Europe,37958138,78982.0,2021-52,4105613.0,TESSy COVID-19,435.782703566756,2.639269988887325
-POL,deaths,2021,52,True,Poland,Europe,37958138,3266.0,2021-52,97974.0,TESSy COVID-19,160.835075735275,2.2063807679018046
-PRI,cases,2021,52,True,Puerto Rico,America,2860840,6349.0,2021-52,303099.0,Epidemic intelligence national data,3748.26973895779,3.573830836731667
-PRI,deaths,2021,52,True,Puerto Rico,America,2860840,9.0,2021-52,3314.0,Epidemic intelligence national data,10.1368828735616,1.0059044284754453
-PRT,cases,2021,52,True,Portugal,Europe,10295909,148433.0,2021-52,1434548.0,TESSy COVID-19,2007.62263924438,3.3026820844215914
-PRT,deaths,2021,52,True,Portugal,Europe,10295909,110.0,2021-52,19002.0,TESSy COVID-19,19.7165689789993,1.294831342495175
-PRY,cases,2021,52,True,Paraguay,America,7132530,875.0,2021-52,465564.0,Epidemic intelligence national data,13.0949326536306,1.1171032692193024
-PRY,deaths,2021,52,True,Paraguay,America,7132530,70.0,2021-52,16607.0,Epidemic intelligence national data,4.48648656227173,0.6519063713091153
-PSE,cases,2021,52,True,Palestine,Asia,5101416,1576.0,2021-52,470656.0,Epidemic intelligence national data,84.8979969482983,1.928897443782667
-PSE,deaths,2021,52,True,Palestine,Asia,5101416,21.0,2021-52,4947.0,Epidemic intelligence national data,15.6819204707085,1.1953992470447674
-PYF,cases,2021,52,True,French Polynesia,Oceania,280904,8.0,2021-52,46382.0,Epidemic intelligence national data,14.2397402671375,1.1535020678417303
-PYF,deaths,2021,52,True,French Polynesia,Oceania,280904,0.0,2021-52,636.0,Epidemic intelligence national data,0.0,-inf
-QAT,cases,2021,52,True,Qatar,Asia,2881060,1014.0,2021-52,252359.0,Epidemic intelligence national data,202.078401699375,2.3055198982553624
-QAT,deaths,2021,52,True,Qatar,Asia,2881060,1.0,2021-52,618.0,Epidemic intelligence national data,1.38837788869375,0.14250768848053333
-ROU,cases,2021,52,True,Romania,Europe,19328838,9351.0,2021-52,1797288.0,TESSy COVID-19,71.2665707064232,1.8528858613771528
-ROU,deaths,2021,52,True,Romania,Europe,19328838,165.0,2021-52,57034.0,TESSy COVID-19,18.2628671211379,1.2615689592411539
-RUS,cases,2021,52,True,Russia,Europe,145934460,168336.0,2021-52,10554309.0,Epidemic intelligence national data,232.651698577567,2.366706227641569
-RUS,deaths,2021,52,True,Russia,Europe,145934460,7618.0,2021-52,311353.0,Epidemic intelligence national data,89.9787479941338,1.954139945897542
-RWA,cases,2021,52,True,Rwanda,Africa,12952209,948.0,2021-52,113582.0,Epidemic intelligence national data,92.648288797687,1.9668374023641986
-RWA,deaths,2021,52,True,Rwanda,Africa,12952209,0.0,2021-52,1355.0,Epidemic intelligence national data,0.849275980645464,-0.07095115852520131
-SAU,cases,2021,52,True,Saudi Arabia,Asia,34813867,602.0,2021-52,559852.0,Epidemic intelligence national data,25.880491816666,1.4129725251355594
-SAU,deaths,2021,52,True,Saudi Arabia,Asia,34813867,9.0,2021-52,8881.0,Epidemic intelligence national data,0.545759538864212,-0.26299866489067375
-SDN,cases,2021,52,True,Sudan,Africa,43849269,949.0,2021-52,46988.0,Epidemic intelligence national data,2.64998716398214,0.4232437703046466
-SDN,deaths,2021,52,True,Sudan,Africa,43849269,50.0,2021-52,3337.0,Epidemic intelligence national data,0.980632083057075,-0.008493902170078432
-SEN,cases,2021,52,True,Senegal,Africa,16743930,75.0,2021-52,75671.0,Epidemic intelligence national data,9.01819345876386,0.955119547578717
-SEN,deaths,2021,52,True,Senegal,Africa,16743930,0.0,2021-52,1890.0,Epidemic intelligence national data,0.23889254195401,-0.6217974083864892
-SGP,cases,2021,52,True,Singapore,Asia,5850343,2209.0,2021-52,280290.0,Epidemic intelligence national data,74.8674052102586,1.8742927814064612
-SGP,deaths,2021,52,True,Singapore,Asia,5850343,15.0,2021-52,829.0,Epidemic intelligence national data,2.7348823821099,0.4369386535582859
-SLB,cases,2021,52,True,Solomon Islands,Oceania,686878,0.0,2021-52,24.0,Epidemic intelligence national data,0.582345045262769,-0.23481961526304332
-SLB,deaths,2021,52,True,Solomon Islands,Oceania,686878,0.0,2021-52,0.0,Epidemic intelligence national data,0.0,-inf
-SLE,cases,2021,52,True,Sierra Leone,Africa,7976985,84.0,2021-52,7179.0,Epidemic intelligence national data,8.44930760180695,0.9268211211348807
-SLE,deaths,2021,52,True,Sierra Leone,Africa,7976985,0.0,2021-52,123.0,Epidemic intelligence national data,0.250721293822165,-0.6008087797364574
-SLV,cases,2021,52,True,El Salvador,America,6486201,330.0,2021-52,122063.0,Epidemic intelligence national data,8.21744500363156,0.9147368061884945
-SLV,deaths,2021,52,True,El Salvador,America,6486201,9.0,2021-52,3826.0,Epidemic intelligence national data,2.62094868783746,0.4184585185401965
-SMR,cases,2021,52,True,San Marino,Europe,34453,560.0,2021-52,8487.0,Epidemic intelligence national data,3851.62395147012,3.5856438787189133
-SMR,deaths,2021,52,True,San Marino,Europe,34453,2.0,2021-52,102.0,Epidemic intelligence national data,174.150291701739,2.2409242062381227
-SOM,cases,2021,52,True,Somalia,Africa,15893219,95.0,2021-52,23532.0,Epidemic intelligence national data,2.28399294063714,0.3586947572589796
-SOM,deaths,2021,52,True,Somalia,Africa,15893219,0.0,2021-52,1333.0,Epidemic intelligence national data,0.0,-inf
-SRB,cases,2021,52,True,Serbia,Europe,6926705,8414.0,2021-52,1302856.0,Epidemic intelligence national data,294.440141452538,2.468997017699875
-SRB,deaths,2021,52,True,Serbia,Europe,6926705,223.0,2021-52,12760.0,Epidemic intelligence national data,51.8283945974313,1.7145677566250803
-SSD,cases,2021,52,True,South Sudan,Africa,11193729,568.0,2021-52,15655.0,Epidemic intelligence national data,19.6181272567882,1.2926575473425297
-SSD,deaths,2021,52,True,South Sudan,Africa,11193729,0.0,2021-52,136.0,Epidemic intelligence national data,0.268007202961587,-0.5718535337158628
-STP,cases,2021,52,True,Sao Tome And Principe,Africa,219161,6.0,2021-52,3897.0,Epidemic intelligence national data,70.7242620721753,1.8495684247800823
-STP,deaths,2021,52,True,Sao Tome And Principe,Africa,219161,0.0,2021-52,57.0,Epidemic intelligence national data,0.0,-inf
-SUR,cases,2021,52,True,Suriname,America,586634,214.0,2021-52,51683.0,Epidemic intelligence national data,45.5138979329531,1.658144031249749
-SUR,deaths,2021,52,True,Suriname,America,586634,8.0,2021-52,1187.0,Epidemic intelligence national data,3.40928074404143,0.5326627655491549
-SVK,cases,2021,52,True,Slovakia,Europe,5457873,19839.0,2021-52,1237518.0,TESSy COVID-19,729.551603710823,2.8630560164683003
-SVK,deaths,2021,52,True,Slovakia,Europe,5457873,329.0,2021-52,16787.0,Epidemic intelligence national data,120.559785835984,2.0812024678207344
-SVN,cases,2021,52,True,Slovenia,Europe,2095861,10804.0,2021-52,467565.0,TESSy COVID-19,878.159381752893,2.9435733454436797
-SVN,deaths,2021,52,True,Slovenia,Europe,2095861,17.0,2021-52,6073.0,TESSy COVID-19,31.9677688549002,1.5047123263618205
-SWE,cases,2021,52,True,Sweden,Europe,10327589,59466.0,2021-52,1347621.0,TESSy COVID-19,847.361373501599,2.9280686630430086
-SWE,deaths,2021,52,True,Sweden,Europe,10327589,20.0,2021-52,15326.0,TESSy COVID-19,5.0350570689829,0.7020043973531724
-SWZ,cases,2021,52,True,Eswatini,Africa,1160164,7393.0,2021-52,66286.0,Epidemic intelligence national data,538.716940018825,2.7313606322027724
-SWZ,deaths,2021,52,True,Eswatini,Africa,1160164,11.0,2021-52,1310.0,Epidemic intelligence national data,42.2354080974759,1.6256766948872112
-SXM,cases,2021,52,True,Sint Maarten,America,42882,64.0,2021-52,5495.0,Epidemic intelligence national data,1863.25264679819,3.2702717468291804
-SXM,deaths,2021,52,True,Sint Maarten,America,42882,0.0,2021-52,75.0,Epidemic intelligence national data,0.0,-inf
-SYC,cases,2021,52,True,Seychelles,Africa,98340,290.0,2021-52,25251.0,Epidemic intelligence national data,1141.95647752695,3.057649552307316
-SYC,deaths,2021,52,True,Seychelles,Africa,98340,0.0,2021-52,126.0,Epidemic intelligence national data,0.0,-inf
-SYR,cases,2021,52,True,Syria,Asia,17500657,479.0,2021-52,50337.0,Epidemic intelligence national data,3.34844571835217,0.5248432629821577
-SYR,deaths,2021,52,True,Syria,Asia,17500657,31.0,2021-52,2905.0,Epidemic intelligence national data,3.42844271503636,0.5350968973477117
-TCA,cases,2021,52,True,Turks And Caicos Islands,America,38718,35.0,2021-52,3560.0,Epidemic intelligence national data,1002.11787798957,3.0009188101034407
-TCA,deaths,2021,52,True,Turks And Caicos Islands,America,38718,0.0,2021-52,26.0,Epidemic intelligence national data,25.8277803605558,1.412087084509231
-TCD,cases,2021,52,True,Chad,Africa,16425859,0.0,2021-52,6185.0,Epidemic intelligence national data,2.93439752526793,0.4675189477266585
-TCD,deaths,2021,52,True,Chad,Africa,16425859,0.0,2021-52,184.0,Epidemic intelligence national data,0.182638850120411,-0.7384068357925276
-TGO,cases,2021,52,True,Togo,Africa,8278737,342.0,2021-52,31390.0,Epidemic intelligence national data,56.1438296687043,1.749302033294136
-TGO,deaths,2021,52,True,Togo,Africa,8278737,2.0,2021-52,250.0,Epidemic intelligence national data,0.603956859603101,-0.21899408175211973
-THA,cases,2021,52,True,Thailand,Asia,69799978,22009.0,2021-52,2232485.0,Epidemic intelligence national data,55.0601892739852,1.7408376999833204
-THA,deaths,2021,52,True,Thailand,Asia,69799978,214.0,2021-52,21738.0,Epidemic intelligence national data,4.72779518641109,0.6746586541383955
-TJK,cases,2021,52,True,Tajikistan,Asia,9537642,0.0,2021-52,17493.0,Epidemic intelligence national data,0.0,-inf
-TJK,deaths,2021,52,True,Tajikistan,Asia,9537642,0.0,2021-52,125.0,Epidemic intelligence national data,0.0,-inf
-TLS,cases,2021,52,True,Timor Leste,Asia,1318442,4.0,2021-52,19839.0,Epidemic intelligence national data,0.455082589905358,-0.3419097789797931
-TLS,deaths,2021,52,True,Timor Leste,Asia,1318442,0.0,2021-52,122.0,Epidemic intelligence national data,0.0,-inf
-TON,cases,2021,52,True,Tonga,Oceania,105697,0.0,2021-52,1.0,Epidemic intelligence national data,0.0,-inf
-TON,deaths,2021,52,True,Tonga,Oceania,105697,0.0,2021-52,0.0,Epidemic intelligence national data,0.0,-inf
-TTO,cases,2021,52,True,Trinidad And Tobago,America,1399491,4766.0,2021-52,92997.0,Epidemic intelligence national data,511.614579872254,2.708942912405214
-TTO,deaths,2021,52,True,Trinidad And Tobago,America,1399491,183.0,2021-52,2936.0,Epidemic intelligence national data,231.512742847221,2.3645749003039707
-TUN,cases,2021,52,True,Tunisia,Africa,11818618,1441.0,2021-52,728802.0,Epidemic intelligence national data,65.1429803383103,1.8138676239690035
-TUN,deaths,2021,52,True,Tunisia,Africa,11818618,38.0,2021-52,25588.0,Epidemic intelligence national data,9.56118558024297,0.9805117478234849
-TUR,cases,2021,52,True,Turkey,Europe,83154997,131986.0,2021-52,9551910.0,Epidemic intelligence national data,478.264703683412,2.6796683307754603
-TUR,deaths,2021,52,True,Turkey,Europe,83154997,1275.0,2021-52,82635.0,Epidemic intelligence national data,28.7535335970248,1.458691223891334
-TWN,cases,2021,52,True,Taiwan,Asia,23816775,74.0,2021-52,17095.0,Epidemic intelligence national data,1.17144323696218,0.06872124942350404
-TWN,deaths,2021,52,True,Taiwan,Asia,23816775,2.0,2021-52,850.0,Epidemic intelligence national data,0.0,-inf
-TZA,cases,2021,52,True,United Republic Of Tanzania,Africa,59734213,174.0,2021-52,29306.0,Epidemic intelligence national data,4.72593486751052,0.6744877319227371
-TZA,deaths,2021,52,True,United Republic Of Tanzania,Africa,59734213,0.0,2021-52,737.0,Epidemic intelligence national data,0.050222474681302,-1.29910189150452
-UGA,cases,2021,52,True,Uganda,Africa,45741000,1010.0,2021-52,146030.0,Epidemic intelligence national data,36.9471590039571,1.5675810495957962
-UGA,deaths,2021,52,True,Uganda,Africa,45741000,3.0,2021-52,3306.0,Epidemic intelligence national data,0.743315624931681,-0.12882673797562222
-UKR,cases,2021,52,True,Ukraine,Europe,43733759,47522.0,2021-52,3676342.0,Epidemic intelligence national data,150.124301000515,2.176450998280565
-UKR,deaths,2021,52,True,Ukraine,Europe,43733759,2047.0,2021-52,96301.0,Epidemic intelligence national data,69.4886529191328,1.8419138926917138
-URY,cases,2021,52,True,Uruguay,America,3473727,2102.0,2021-52,416970.0,Epidemic intelligence national data,349.739631237573,2.5437448477870035
-URY,deaths,2021,52,True,Uruguay,America,3473727,11.0,2021-52,6177.0,Epidemic intelligence national data,6.04538007736359,0.7814236104594378
-USA,cases,2021,52,True,United States Of America,America,331002647,925536.0,2021-52,55114128.0,Epidemic intelligence national data,1289.17005307211,3.11031020846255
-USA,deaths,2021,52,True,United States Of America,America,331002647,9091.0,2021-52,826065.0,Epidemic intelligence national data,59.2986194457835,1.773044582503259
-UZB,cases,2021,52,True,Uzbekistan,Asia,33469199,1310.0,2021-52,199182.0,Epidemic intelligence national data,5.71869078790921,0.7572966146905371
-UZB,deaths,2021,52,True,Uzbekistan,Asia,33469199,21.0,2021-52,1485.0,Epidemic intelligence national data,0.717077214784853,-0.14443407703868225
-VAT,cases,2021,52,True,Holy See,Europe,809,0.0,2021-52,26.0,Epidemic intelligence national data,0.0,-inf
-VAT,deaths,2021,52,True,Holy See,Europe,809,0.0,2021-52,0.0,Epidemic intelligence national data,0.0,-inf
-VCT,cases,2021,52,True,Saint Vincent And The Grenadines,America,110947,36.0,2021-52,5991.0,Epidemic intelligence national data,210.010185043309,2.322240357595085
-VCT,deaths,2021,52,True,Saint Vincent And The Grenadines,America,110947,0.0,2021-52,83.0,Epidemic intelligence national data,54.0798759768178,1.7330356869527102
-VEN,cases,2021,52,True,Venezuela,America,28435943,2545.0,2021-52,443612.0,Epidemic intelligence national data,8.38375572774218,0.923438616056741
-VEN,deaths,2021,52,True,Venezuela,America,28435943,39.0,2021-52,5316.0,Epidemic intelligence national data,1.33633690291192,0.12591596160535093
-VGB,cases,2021,52,True,British Virgin Islands,America,30237,47.0,2021-52,3071.0,Epidemic intelligence national data,601.911565300791,2.779532688063219
-VGB,deaths,2021,52,True,British Virgin Islands,America,30237,0.0,2021-52,39.0,Epidemic intelligence national data,0.0,-inf
-VIR,cases,2021,52,True,United States Virgin Islands,America,104423,69.0,2021-52,10290.0,Epidemic intelligence national data,2498.4917115961,3.39767791306856
-VIR,deaths,2021,52,True,United States Virgin Islands,America,104423,0.0,2021-52,89.0,Epidemic intelligence national data,9.57643431044885,0.9812038339683404
-VNM,cases,2021,52,True,Vietnam,Asia,97338583,112050.0,2021-52,1778976.0,Epidemic intelligence national data,245.018976699096,2.3891997217381777
-VNM,deaths,2021,52,True,Vietnam,Asia,97338583,1485.0,2021-52,33021.0,Epidemic intelligence national data,35.4946609403591,1.55016303196998
-VUT,cases,2021,52,True,Vanuatu,Oceania,307150,1.0,2021-52,7.0,Epidemic intelligence national data,0.0,-inf
-VUT,deaths,2021,52,True,Vanuatu,Oceania,307150,0.0,2021-52,0.0,Epidemic intelligence national data,0.0,-inf
-WLF,cases,2021,52,True,Wallis And Futuna,Oceania,11246,0.0,2021-52,454.0,Epidemic intelligence national data,0.0,-inf
-WLF,deaths,2021,52,True,Wallis And Futuna,Oceania,11246,0.0,2021-52,7.0,Epidemic intelligence national data,0.0,-inf
-WSM,cases,2021,52,True,Samoa,Oceania,198410,1.0,2021-52,2.0,Epidemic intelligence national data,0.0,-inf
-WSM,deaths,2021,52,True,Samoa,Oceania,198410,0.0,2021-52,0.0,Epidemic intelligence national data,0.0,-inf
-XKX,cases,2021,52,True,Kosovo,Europe,1795666,57.0,2021-52,161598.0,Epidemic intelligence national data,18.5446513995364,1.26821867391803
-XKX,deaths,2021,52,True,Kosovo,Europe,1795666,2.0,2021-52,2991.0,Epidemic intelligence national data,1.11379287684904,0.046804436075694
-YEM,cases,2021,52,True,Yemen,Asia,29825968,32.0,2021-52,10130.0,Epidemic intelligence national data,0.0972307084886566,-1.0121965496734797
-YEM,deaths,2021,52,True,Yemen,Asia,29825968,5.0,2021-52,1984.0,Epidemic intelligence national data,0.268222644106639,-0.571504560580492
-ZAF,cases,2021,52,True,South Africa,Africa,59308690,140577.0,2021-52,3468079.0,Epidemic intelligence national data,269.783399363567,2.431015222627923
-ZAF,deaths,2021,52,True,South Africa,Africa,59308690,211.0,2021-52,91198.0,Epidemic intelligence national data,14.3317952225888,1.1563005941957856
-ZMB,cases,2021,52,True,Zambia,Africa,18383956,5431.0,2021-52,259677.0,Epidemic intelligence national data,234.818882290623,2.3707330165317333
-ZMB,deaths,2021,52,True,Zambia,Africa,18383956,9.0,2021-52,3743.0,Epidemic intelligence national data,3.48129640867287,0.5417410020750602
-ZWE,cases,2021,52,True,Zimbabwe,Africa,14862927,25656.0,2021-52,214878.0,Epidemic intelligence national data,148.571004890221,2.171934060804994
-ZWE,deaths,2021,52,True,Zimbabwe,Africa,14862927,49.0,2021-52,5032.0,Epidemic intelligence national data,16.4839671216847,1.2170617396255943
+country_code,indicator,year,weeknum,last_year,country,continent,population,weekly_count,year_week,cumulative_count,source,rate_14_day,log_scale,minmaxnorm
+ABW,cases,2021,52,True,Aruba,America,106766,255.0,2021-52,22020.0,Epidemic intelligence national data,4844.23880261507,3.6852255440708652,1.0
+ABW,deaths,2021,52,True,Aruba,America,106766,3.0,2021-52,181.0,Epidemic intelligence national data,9.36627765393477,0.971567027862508,0.04045685580303339
+AFG,cases,2021,52,True,Afghanistan,Asia,38928341,149.0,2021-52,158156.0,Epidemic intelligence national data,0.922207293652714,-0.03517144730789242,0.00019037197199173541
+AFG,deaths,2021,52,True,Afghanistan,Asia,38928341,7.0,2021-52,7361.0,Epidemic intelligence national data,0.667893861698345,-0.17529254791539325,0.0028849118777841912
+AGO,cases,2021,52,True,Angola,Africa,32866268,471.0,2021-52,82920.0,Epidemic intelligence national data,51.8829822722799,1.715024931698278,0.010710244557776931
+AGO,deaths,2021,52,True,Angola,Africa,32866268,1.0,2021-52,1772.0,Epidemic intelligence national data,1.03449530685991,0.014728524765439092,0.004468416270039141
+AIA,cases,2021,52,True,Anguilla,America,15002,69.0,2021-52,1674.0,Epidemic intelligence national data,546.593787495001,2.7376646912571676,0.11283378251293738
+AIA,deaths,2021,52,True,Anguilla,America,15002,0.0,2021-52,5.0,Epidemic intelligence national data,66.657778962805,1.823850838873451,0.2879227214149225
+ALB,cases,2021,52,True,Albania,Europe,2845955,1990.0,2021-52,210885.0,Epidemic intelligence national data,179.482809812523,2.254022859816475,0.037050776628855
+ALB,deaths,2021,52,True,Albania,Europe,2845955,32.0,2021-52,3220.0,Epidemic intelligence national data,18.9742986097813,1.2781657310480679,0.08195790165339947
+AND,cases,2021,52,True,Andorra,Europe,76177,1095.0,2021-52,24502.0,Epidemic intelligence national data,4515.79873190071,3.6547345772802133,0.9321998596483191
+AND,deaths,2021,52,True,Andorra,Europe,76177,3.0,2021-52,140.0,Epidemic intelligence national data,39.3819656851806,1.5952973894283458,0.17010711894666375
+ARE,cases,2021,52,True,United Arab Emirates,Asia,9890400,1335.0,2021-52,769608.0,Epidemic intelligence national data,257.532556822778,2.4108321396091066,0.053162646871115014
+ARE,deaths,2021,52,True,United Arab Emirates,Asia,9890400,0.0,2021-52,2169.0,Epidemic intelligence national data,1.8199466148993,0.26005864886711266,0.007861107740839614
+ARG,cases,2021,52,True,Argentina,America,45195777,33077.0,2021-52,5739245.0,Epidemic intelligence national data,761.577790774567,2.8817142706118553,0.15721309824021137
+ARG,deaths,2021,52,True,Argentina,America,45195777,138.0,2021-52,117245.0,Epidemic intelligence national data,6.96967772011089,0.8432126966613644,0.030104942105542296
+ARM,cases,2021,52,True,Armenia,Europe,2963234,1104.0,2021-52,345036.0,Epidemic intelligence national data,44.8159004655049,1.651432126928217,0.009251381340100718
+ARM,deaths,2021,52,True,Armenia,Europe,2963234,84.0,2021-52,7983.0,Epidemic intelligence national data,26.9975304009066,1.4313240388881625,0.11661358277251593
+ASM,cases,2021,52,True,American Samoa,Oceania,55197,0.0,2021-52,11.0,Epidemic intelligence national data,1.8116926644564,0.25808452587318176,0.000373989131889698
+ASM,deaths,2021,52,True,American Samoa,Oceania,55197,0.0,2021-52,0.0,Epidemic intelligence national data,0.0,-inf,0.0
+ATG,cases,2021,52,True,Antigua And Barbuda,America,97928,21.0,2021-52,4259.0,Epidemic intelligence national data,62.2906625275713,1.7944229500832942,0.012858710122619238
+ATG,deaths,2021,52,True,Antigua And Barbuda,America,97928,0.0,2021-52,118.0,Epidemic intelligence national data,10.2115840209133,1.009093115072526,0.0441080862129999
+AUS,cases,2021,52,True,Australia,Oceania,25499881,19975.0,2021-52,499958.0,Epidemic intelligence national data,977.377110112788,2.990062163760995,0.2017607202983407
+AUS,deaths,2021,52,True,Australia,Oceania,25499881,40.0,2021-52,2266.0,Epidemic intelligence national data,4.70590431382797,0.6726430923259805,0.020326761524887087
+AUT,cases,2021,52,True,Austria,Europe,8901064,23268.0,2021-52,1283321.0,TESSy COVID-19,426.083892891906,2.6294951170204905,0.08795683083622811
+AUT,deaths,2021,52,True,Austria,Europe,8901064,81.0,2021-52,13283.0,TESSy COVID-19,19.9976092745766,1.3009780786179779,0.08637800679409403
+AZE,cases,2021,52,True,Azerbaijan,Europe,10139175,5838.0,2021-52,617679.0,Epidemic intelligence national data,72.5995951347126,1.8609341987820427,0.01498679113331925
+AZE,deaths,2021,52,True,Azerbaijan,Europe,10139175,111.0,2021-52,8375.0,Epidemic intelligence national data,17.3584142694056,1.2395100488645545,0.074978223902175
+BDI,cases,2021,52,True,Burundi,Africa,11890781,1446.0,2021-52,27366.0,Epidemic intelligence national data,43.3445036116635,1.636934033704594,0.008947639738211253
+BDI,deaths,2021,52,True,Burundi,Africa,11890781,0.0,2021-52,14.0,Epidemic intelligence national data,0.0,-inf,0.0
+BEL,cases,2021,52,True,Belgium,Europe,11522440,77857.0,2021-52,2132409.0,TESSy COVID-19,1067.5343069697,3.02838184068837,0.2203719408699282
+BEL,deaths,2021,52,True,Belgium,Europe,11522440,155.0,2021-52,27980.0,TESSy COVID-19,32.3716157341674,1.5101643764776758,0.1398264965290915
+BEN,cases,2021,52,True,Benin,Africa,12123198,10.0,2021-52,24935.0,Epidemic intelligence national data,0.230962160314465,-0.6364591669162886,4.767769916499254e-05
+BEN,deaths,2021,52,True,Benin,Africa,12123198,0.0,2021-52,161.0,Epidemic intelligence national data,0.0,-inf,0.0
+BES,cases,2021,52,True,"Bonaire, Saint Eustatius And Saba",America,26221,32.0,2021-52,3648.0,Epidemic intelligence national data,1819.15258762061,3.2598691285205117,0.3755290896556493
+BES,deaths,2021,52,True,"Bonaire, Saint Eustatius And Saba",America,26221,0.0,2021-52,23.0,Epidemic intelligence national data,38.1373708096564,1.581350749480398,0.1647311950980766
+BFA,cases,2021,52,True,Burkina Faso,Africa,20903278,338.0,2021-52,17632.0,Epidemic intelligence national data,4.59258112531441,0.6620568366088116,0.0009480501090976755
+BFA,deaths,2021,52,True,Burkina Faso,Africa,20903278,6.0,2021-52,318.0,Epidemic intelligence national data,1.05246650788455,0.022208284391448577,0.004546041375264988
+BGD,cases,2021,52,True,Bangladesh,Asia,164689383,1373.0,2021-52,1584023.0,Epidemic intelligence national data,1.7851788296517,0.2516817279220415,0.0003685158602602343
+BGD,deaths,2021,52,True,Bangladesh,Asia,164689383,17.0,2021-52,28062.0,Epidemic intelligence national data,0.0850085156976998,-1.0705375668118788,0.00036718719951323926
+BGR,cases,2021,52,True,Bulgaria,Europe,6951482,14302.0,2021-52,748184.0,TESSy COVID-19,343.049151245734,2.5353563491550686,0.07081590425735111
+BGR,deaths,2021,52,True,Bulgaria,Europe,6951482,455.0,2021-52,30983.0,TESSy COVID-19,134.64754709859,2.1291984461897857,0.5815988590634343
+BHR,cases,2021,52,True,Bahrain,Asia,1701583,434.0,2021-52,283344.0,Epidemic intelligence national data,284.734861596525,2.4544406433749706,0.05877803989407299
+BHR,deaths,2021,52,True,Bahrain,Asia,1701583,0.0,2021-52,1395.0,Epidemic intelligence national data,0.587688052830805,-0.23085313801181365,0.0025384695701982586
+BHS,cases,2021,52,True,Bahamas,America,393248,205.0,2021-52,23539.0,Epidemic intelligence national data,108.582878997477,2.0357613524802955,0.022414848528701885
+BHS,deaths,2021,52,True,Bahamas,America,393248,5.0,2021-52,713.0,Epidemic intelligence national data,0.0,-inf,0.0
+BIH,cases,2021,52,True,Bosnia And Herzegovina,Europe,3280815,3230.0,2021-52,292313.0,Epidemic intelligence national data,218.848060619084,2.3401427023488948,0.04517697610219856
+BIH,deaths,2021,52,True,Bosnia And Herzegovina,Europe,3280815,189.0,2021-52,13464.0,Epidemic intelligence national data,84.1254383438262,1.9249273401718126,0.36337282047296177
+BLR,cases,2021,52,True,Belarus,Europe,9449321,9728.0,2021-52,701699.0,Epidemic intelligence national data,171.832452300012,2.2351051881556008,0.035471507351630044
+BLR,deaths,2021,52,True,Belarus,Europe,9449321,113.0,2021-52,5624.0,Epidemic intelligence national data,23.8112346908312,1.3767819155859902,0.10285064397748774
+BLZ,cases,2021,52,True,Belize,America,397621,189.0,2021-52,33457.0,Epidemic intelligence national data,543.985352886291,2.7355872062307207,0.11229532131913705
+BLZ,deaths,2021,52,True,Belize,America,397621,5.0,2021-52,605.0,Epidemic intelligence national data,35.2094079538053,1.546658722469868,0.1520841035391324
+BMU,cases,2021,52,True,Bermuda,America,62273,133.0,2021-52,6420.0,Epidemic intelligence national data,807.733688757568,2.9072681967062635,0.16674109631455994
+BMU,deaths,2021,52,True,Bermuda,America,62273,0.0,2021-52,110.0,Epidemic intelligence national data,64.2332953286336,1.8077602029782982,0.277450366397422
+BOL,cases,2021,52,True,Bolivia,America,11673029,11639.0,2021-52,580690.0,Epidemic intelligence national data,136.579802894347,2.135386481629134,0.02819427539794632
+BOL,deaths,2021,52,True,Bolivia,America,11673029,123.0,2021-52,19576.0,Epidemic intelligence national data,11.6507891824821,1.066355343901868,0.050324612974632865
+BRA,cases,2021,52,True,Brazil,America,212559409,45981.0,2021-52,22246276.0,Epidemic intelligence national data,15.2964294325828,1.1845900675041436,0.0031576538762550913
+BRA,deaths,2021,52,True,Brazil,America,212559409,1552.0,2021-52,618534.0,Epidemic intelligence national data,3.43903854192594,0.5364370430659685,0.01485464039530393
+BRB,cases,2021,52,True,Barbados,America,287371,378.0,2021-52,29160.0,Epidemic intelligence national data,667.429907680316,2.8244056635856443,0.1377780771914086
+BRB,deaths,2021,52,True,Barbados,America,287371,3.0,2021-52,262.0,Epidemic intelligence national data,20.8789335040766,1.3197083111346426,0.09018481335973348
+BRN,cases,2021,52,True,Brunei Darussalam,Asia,437483,28.0,2021-52,15461.0,Epidemic intelligence national data,19.4293263966828,1.2884577441265594,0.0040108110248805754
+BRN,deaths,2021,52,True,Brunei Darussalam,Asia,437483,0.0,2021-52,57.0,Epidemic intelligence national data,0.0,-inf,0.0
+BTN,cases,2021,52,True,Bhutan,Asia,771612,8.0,2021-52,2660.0,Epidemic intelligence national data,0.388796441734965,-0.41027771839067373,8.025955316758551e-05
+BTN,deaths,2021,52,True,Bhutan,Asia,771612,0.0,2021-52,3.0,Epidemic intelligence national data,0.0,-inf,0.0
+BWA,cases,2021,52,True,Botswana,Africa,2351625,3774.0,2021-52,219509.0,Epidemic intelligence national data,835.37979057035,2.921883964644756,0.17244810270694874
+BWA,deaths,2021,52,True,Botswana,Africa,2351625,4.0,2021-52,2444.0,Epidemic intelligence national data,8.0795194812098,0.9073855324497602,0.03489881110579561
+CAF,cases,2021,52,True,Central African Republic,Africa,4829764,0.0,2021-52,12163.0,Epidemic intelligence national data,4.18239897435982,0.6214254593994162,0.0008633758872708819
+CAF,deaths,2021,52,True,Central African Republic,Africa,4829764,0.0,2021-52,101.0,Epidemic intelligence national data,0.0,-inf,0.0
+CAN,cases,2021,52,True,Canada,America,37742157,45093.0,2021-52,2142310.0,Epidemic intelligence national data,679.07618528533,2.8319185003378675,0.14018222737465866
+CAN,deaths,2021,52,True,Canada,America,37742157,109.0,2021-52,30280.0,Epidemic intelligence national data,6.09398132703438,0.7849011191386479,0.02632244451034774
+CHE,cases,2021,52,True,Switzerland,Europe,8606033,34623.0,2021-52,1371038.0,Epidemic intelligence national data,2336.38425509175,3.3685442708642617,0.48230162679645305
+CHE,deaths,2021,52,True,Switzerland,Europe,8606033,77.0,2021-52,11922.0,Epidemic intelligence national data,45.8980345532024,1.6617940885661397,0.1982527354163449
+CHL,cases,2021,52,True,Chile,America,19116209,8737.0,2021-52,1811297.0,Epidemic intelligence national data,96.2272383609114,1.9832980220943608,0.0198642639807445
+CHL,deaths,2021,52,True,Chile,America,19116209,169.0,2021-52,39173.0,Epidemic intelligence national data,15.0657486534072,1.1779907176864468,0.06507524582933791
+CHN,cases,2021,52,True,China,Asia,1439323774,644.0,2021-52,115409.0,Epidemic intelligence national data,0.168134511755796,-0.7743431329214373,3.470813859651836e-05
+CHN,deaths,2021,52,True,China,Asia,1439323774,0.0,2021-52,4849.0,Epidemic intelligence national data,0.0,-inf,0.0
+CIV,cases,2021,52,True,Cote Divoire,Africa,26378275,181.0,2021-52,71815.0,Epidemic intelligence national data,36.9167430394899,1.5672233786385072,0.0076207521023862615
+CIV,deaths,2021,52,True,Cote Divoire,Africa,26378275,0.0,2021-52,718.0,Epidemic intelligence national data,0.454919815643745,-0.3420651455237434,0.0019649882336885186
+CMR,cases,2021,52,True,Cameroon,Africa,26545864,113.0,2021-52,109367.0,Epidemic intelligence national data,6.42284613527742,0.807727518246334,0.0013258731447777035
+CMR,deaths,2021,52,True,Cameroon,Africa,26545864,13.0,2021-52,1851.0,Epidemic intelligence national data,0.565059777297134,-0.24790560602650105,0.002440728619720194
+COD,cases,2021,52,True,Democratic Republic Of The Congo,Africa,89561404,7447.0,2021-52,77119.0,Epidemic intelligence national data,10.9656610564077,1.040034817910151,0.002263649977471816
+COD,deaths,2021,52,True,Democratic Republic Of The Congo,Africa,89561404,8.0,2021-52,1225.0,Epidemic intelligence national data,1.1053868695493,0.04351430146508645,0.004774626467445737
+COG,cases,2021,52,True,Congo,Africa,5518092,113.0,2021-52,21277.0,Epidemic intelligence national data,38.0203882066482,1.5800165469098668,0.007848578436332167
+COG,deaths,2021,52,True,Congo,Africa,5518092,6.0,2021-52,369.0,Epidemic intelligence national data,0.724888240355543,-0.13972894561970944,0.0031310943468624034
+COL,cases,2021,52,True,Colombia,America,50882884,13201.0,2021-52,5191021.0,Epidemic intelligence national data,161.152422099345,2.2072368372853695,0.03326682037482337
+COL,deaths,2021,52,True,Colombia,America,50882884,324.0,2021-52,130061.0,Epidemic intelligence national data,11.2808071177727,1.0523401736060918,0.04872650627795933
+COM,cases,2021,52,True,Comoros,Africa,869595,108.0,2021-52,6907.0,Epidemic intelligence national data,256.441216888322,2.4089878290704894,0.05293736071596782
+COM,deaths,2021,52,True,Comoros,Africa,869595,1.0,2021-52,158.0,Epidemic intelligence national data,6.89976368309385,0.8388342164059713,0.029802954248816946
+CPV,cases,2021,52,True,Cape Verde,Africa,555988,86.0,2021-52,43567.0,Epidemic intelligence national data,895.343064958237,2.9519894740538684,0.18482636827790222
+CPV,deaths,2021,52,True,Cape Verde,Africa,555988,0.0,2021-52,352.0,Epidemic intelligence national data,1.79859996978352,0.2549345817812935,0.007768902686149095
+CRI,cases,2021,52,True,Costa Rica,America,5094114,314.0,2021-52,570556.0,Epidemic intelligence national data,39.6143470680083,1.5978525021886958,0.008177620609170475
+CRI,deaths,2021,52,True,Costa Rica,America,5094114,7.0,2021-52,7353.0,Epidemic intelligence national data,2.55196487554067,0.4068746925946402,0.01102299961615829
+CUB,cases,2021,52,True,Cuba,America,11326616,483.0,2021-52,967498.0,Epidemic intelligence national data,29.3291482645832,1.4672994510009196,0.006054438986110762
+CUB,deaths,2021,52,True,Cuba,America,11326616,2.0,2021-52,8324.0,Epidemic intelligence national data,0.794588604398701,-0.09985766767513159,0.003432159260983154
+CUW,cases,2021,52,True,Curaçao,America,164100,218.0,2021-52,22962.0,Epidemic intelligence national data,3141.37720901889,3.497120088566442,0.6484769510790999
+CUW,deaths,2021,52,True,Curaçao,America,164100,2.0,2021-52,189.0,Epidemic intelligence national data,30.4692260816575,1.4838614232829253,0.13160928295754604
+CYM,cases,2021,52,True,Cayman Islands,America,65720,374.0,2021-52,8943.0,Epidemic intelligence national data,1062.08155812538,3.0261578678601366,0.21924632566669414
+CYM,deaths,2021,52,True,Cayman Islands,America,65720,0.0,2021-52,12.0,Epidemic intelligence national data,45.6482045039562,1.6594236999566385,0.1971736153377967
+CYP,cases,2021,52,True,Cyprus,Europe,888005,20154.0,2021-52,169848.0,TESSy COVID-19,2917.88897585036,3.4650687631938775,0.6023421005329451
+CYP,deaths,2021,52,True,Cyprus,Europe,888005,15.0,2021-52,767.0,TESSy COVID-19,28.1529946340392,1.449524597548508,0.12160451423884609
+CZE,cases,2021,52,True,Czechia,Europe,10693939,35841.0,2021-52,2483794.0,TESSy COVID-19,714.853525908461,2.854217063610284,0.14756777174621552
+CZE,deaths,2021,52,True,Czechia,Europe,10693939,379.0,2021-52,36301.0,TESSy COVID-19,83.7857780935538,1.923170307178424,0.361905686326931
+DEU,cases,2021,52,True,Germany,Europe,83166711,203028.0,2021-52,7217639.0,TESSy COVID-19,477.366478999031,2.6788519192855818,0.09854313514464517
+DEU,deaths,2021,52,True,Germany,Europe,83166711,1935.0,2021-52,112222.0,Epidemic intelligence national data,46.5330413270762,1.6677614382715473,0.2009955942588616
+DJI,cases,2021,52,True,Djibouti,Africa,988002,21.0,2021-52,13685.0,Epidemic intelligence national data,15.1821555017095,1.1813334353303153,0.003134064219442217
+DJI,deaths,2021,52,True,Djibouti,Africa,988002,0.0,2021-52,189.0,Epidemic intelligence national data,0.0,-inf,0.0
+DMA,cases,2021,52,True,Dominica,America,71991,197.0,2021-52,6559.0,Epidemic intelligence national data,179.189065299829,2.2533115040714264,0.03699013871964718
+DMA,deaths,2021,52,True,Dominica,America,71991,2.0,2021-52,45.0,Epidemic intelligence national data,13.890625217041,1.1427217937721772,0.05999939807290715
+DNK,cases,2021,52,True,Denmark,Europe,5822763,119648.0,2021-52,821286.0,TESSy COVID-19,3350.35102751048,3.5250903119097425,0.6916155796658614
+DNK,deaths,2021,52,True,Denmark,Europe,5822763,104.0,2021-52,3292.0,Epidemic intelligence national data,35.7218729321458,1.552934221290746,0.15429765330765935
+DOM,cases,2021,52,True,Dominican Republic,America,10847904,1471.0,2021-52,424809.0,Epidemic intelligence national data,119.156659203474,2.0761183183946716,0.024597602236113864
+DOM,deaths,2021,52,True,Dominican Republic,America,10847904,4.0,2021-52,4251.0,Epidemic intelligence national data,2.58114378593321,0.41181219815023634,0.011149035488023
+DZA,cases,2021,52,True,Algeria,Africa,43851043,1678.0,2021-52,217265.0,Epidemic intelligence national data,6.69311332001841,0.8256281780353338,0.0013816646108373643
+DZA,deaths,2021,52,True,Algeria,Africa,43851043,43.0,2021-52,6254.0,Epidemic intelligence national data,1.68753112668267,0.22725179218267794,0.007289150074111899
+ECU,cases,2021,52,True,Ecuador,America,17643060,3575.0,2021-52,553201.0,Epidemic intelligence national data,91.6451001130189,1.962109249977293,0.018918369602990263
+ECU,deaths,2021,52,True,Ecuador,America,17643060,36.0,2021-52,33686.0,Epidemic intelligence national data,5.04447641168822,0.7028160955847891,0.021789195487252947
+EGY,cases,2021,52,True,Egypt,Africa,102334403,6132.0,2021-52,387159.0,Epidemic intelligence national data,11.5591625623692,1.062926371479308,0.0023861669569487792
+EGY,deaths,2021,52,True,Egypt,Africa,102334403,301.0,2021-52,21797.0,Epidemic intelligence national data,4.2605417847603,0.6294648289550073,0.01840305519412338
+ERI,cases,2021,52,True,Eritrea,Africa,3546427,117.0,2021-52,7773.0,Epidemic intelligence national data,0.281973941660155,-0.5497910247164915,5.8208101034973074e-05
+ERI,deaths,2021,52,True,Eritrea,Africa,3546427,7.0,2021-52,76.0,Epidemic intelligence national data,1.69184364996093,0.22836022566715208,0.007307777659035403
+ESH,cases,2021,52,True,Western Sahara,Africa,597330,0.0,2021-52,766.0,Epidemic intelligence national data,0.0,-inf,0.0
+ESH,deaths,2021,52,True,Western Sahara,Africa,597330,0.0,2021-52,1.0,Epidemic intelligence national data,0.0,-inf,0.0
+ESP,cases,2021,52,True,Spain,Europe,47332614,630190.0,2021-52,6659275.0,TESSy COVID-19,2280.72761838169,3.3580734216653854,0.4708123838053736
+ESP,deaths,2021,52,True,Spain,Europe,47332614,231.0,2021-52,89553.0,TESSy COVID-19,12.1058177771462,1.082994132406907,0.05229007107023489
+EST,cases,2021,52,True,Estonia,Europe,1328976,6140.0,2021-52,232949.0,TESSy COVID-19,807.764775285634,2.907284910690093,0.1667475135308312
+EST,deaths,2021,52,True,Estonia,Europe,1328976,27.0,2021-52,1938.0,Epidemic intelligence national data,40.632787951024,1.6088766217407942,0.1755099414887855
+ETH,cases,2021,52,True,Ethiopia,Africa,114963583,3260.0,2021-52,426656.0,Epidemic intelligence national data,43.7364587010132,1.6408436157187445,0.00902855133347326
+ETH,deaths,2021,52,True,Ethiopia,Africa,114963583,37.0,2021-52,6958.0,Epidemic intelligence national data,0.800253415901277,-0.09677246338325635,0.0034566279422009057
+FIN,cases,2021,52,True,Finland,Europe,5525292,23487.0,2021-52,260292.0,Epidemic intelligence national data,850.163213093534,2.929502308939583,0.17549985616617197
+FIN,deaths,2021,52,True,Finland,Europe,5525292,55.0,2021-52,1564.0,Epidemic intelligence national data,19.9084500873438,1.2990374506494513,0.08599289111477423
+FJI,cases,2021,52,True,Fiji,Oceania,896444,58.0,2021-52,55009.0,Epidemic intelligence national data,263.039297490976,2.4200206359747676,0.05429940764872682
+FJI,deaths,2021,52,True,Fiji,Oceania,896444,0.0,2021-52,702.0,Epidemic intelligence national data,5.57759324620389,0.7464468395517153,0.02409194922754051
+FLK,cases,2021,52,True,Falkland Islands (Malvinas),America,3483,1.0,2021-52,81.0,Epidemic intelligence national data,0.0,-inf,0.0
+FLK,deaths,2021,52,True,Falkland Islands (Malvinas),America,3483,0.0,2021-52,0.0,Epidemic intelligence national data,0.0,-inf,0.0
+FRA,cases,2021,52,True,France,Europe,67320216,1121911.0,2021-52,10228050.0,TESSy COVID-19,2436.75243109737,3.386811408023498,0.5030207077698018
+FRA,deaths,2021,52,True,France,Europe,67320216,1320.0,2021-52,128049.0,TESSy COVID-19,37.210219289849,1.5706622294434833,0.16072644137089517
+FRO,cases,2021,52,True,Faroe Islands,Europe,48865,322.0,2021-52,6367.0,Epidemic intelligence national data,3339.8137726389,3.5237222513115283,0.689440365911764
+FRO,deaths,2021,52,True,Faroe Islands,Europe,48865,0.0,2021-52,15.0,Epidemic intelligence national data,40.929090350967,1.6120320925576683,0.1767897950134726
+FSM,cases,2021,52,True,Micronesia (Federated States Of),Oceania,115021,0.0,2021-52,0.0,Epidemic intelligence national data,0.0,-inf,0.0
+FSM,deaths,2021,52,True,Micronesia (Federated States Of),Oceania,115021,0.0,2021-52,0.0,Epidemic intelligence national data,0.0,-inf,0.0
+GAB,cases,2021,52,True,Gabon,Africa,2225728,204.0,2021-52,37932.0,Epidemic intelligence national data,4.58277022169825,0.6611280824356612,0.0009460248366006086
+GAB,deaths,2021,52,True,Gabon,Africa,2225728,1.0,2021-52,290.0,Epidemic intelligence national data,1.79716479282284,0.2545879020017054,0.007762703558865518
+GBR,cases,2021,52,True,United Kingdom,Europe,68059863,541872.0,2021-52,13235401.0,Epidemic intelligence national data,2753.47894837814,3.4398817604475327,0.5684028101363886
+GBR,deaths,2021,52,True,United Kingdom,Europe,68059863,779.0,2021-52,148851.0,Epidemic intelligence national data,23.9935834134723,1.3800951141820472,0.1036382840892091
+GEO,cases,2021,52,True,Georgia,Europe,3989175,19643.0,2021-52,938583.0,Epidemic intelligence national data,705.083131223875,2.848240324513913,0.14555086153953625
+GEO,deaths,2021,52,True,Georgia,Europe,3989175,339.0,2021-52,13942.0,Epidemic intelligence national data,207.060357091379,2.3160969586497355,0.8943799574264535
+GGY,cases,2021,52,True,Guernsey,Europe,64468,588.0,2021-52,8085.0,Epidemic intelligence national data,3518.02444623689,3.5462988529807085,0.7262285344681504
+GGY,deaths,2021,52,True,Guernsey,Europe,64468,0.0,2021-52,24.0,Epidemic intelligence national data,15.5115716324378,1.1906558027598397,0.06700094103534567
+GHA,cases,2021,52,True,Ghana,Africa,31072945,71.0,2021-52,146119.0,Epidemic intelligence national data,45.7246649778449,1.6601505321078573,0.00943897830824552
+GHA,deaths,2021,52,True,Ghana,Africa,31072945,2.0,2021-52,1306.0,Epidemic intelligence national data,1.6412992073973,0.21518775977126683,0.007089455151418684
+GIB,cases,2021,52,True,Gibraltar,Europe,33691,297.0,2021-52,8927.0,Epidemic intelligence national data,3279.80766376777,3.515848376329514,0.6770532579849755
+GIB,deaths,2021,52,True,Gibraltar,Europe,33691,0.0,2021-52,100.0,Epidemic intelligence national data,0.0,-inf,0.0
+GIN,cases,2021,52,True,Guinea,Africa,13132792,0.0,2021-52,31238.0,Epidemic intelligence national data,3.22855947158837,0.5090087907247526,0.0006664740536419248
+GIN,deaths,2021,52,True,Guinea,Africa,13132792,0.0,2021-52,389.0,Epidemic intelligence national data,0.0761452705563295,-1.11835706586798,0.00032890315072885205
+GMB,cases,2021,52,True,Gambia,Africa,2416664,6.0,2021-52,10170.0,Epidemic intelligence national data,4.92414336457199,0.6923306887629613,0.00101649476114055
+GMB,deaths,2021,52,True,Gambia,Africa,2416664,0.0,2021-52,343.0,Epidemic intelligence national data,0.413793560048066,-0.38321627262956987,0.0017873467998309495
+GNB,cases,2021,52,True,Guinea Bissau,Africa,1967998,8.0,2021-52,6484.0,Epidemic intelligence national data,1.42276567354235,0.1531333786033012,0.00029370262935309813
+GNB,deaths,2021,52,True,Guinea Bissau,Africa,1967998,0.0,2021-52,149.0,Epidemic intelligence national data,0.0,-inf,0.0
+GNQ,cases,2021,52,True,Equatorial Guinea,Africa,1402985,6.0,2021-52,13710.0,Epidemic intelligence national data,6.55744715731102,0.8167347995474541,0.0013536589388968823
+GNQ,deaths,2021,52,True,Equatorial Guinea,Africa,1402985,0.0,2021-52,175.0,Epidemic intelligence national data,0.0,-inf,0.0
+GRC,cases,2021,52,True,Greece,Europe,10718565,198401.0,2021-52,1281588.0,TESSy COVID-19,2283.27206113878,3.35855766252472,0.47133763511125815
+GRC,deaths,2021,52,True,Greece,Europe,10718565,486.0,2021-52,20973.0,TESSy COVID-19,94.4156237332143,1.9750438665404506,0.40782041874697456
+GRD,cases,2021,52,True,Grenada,America,112519,5.0,2021-52,5968.0,Epidemic intelligence national data,42.6594619575361,1.6300153736088,0.008806226054443724
+GRD,deaths,2021,52,True,Grenada,America,112519,0.0,2021-52,200.0,Epidemic intelligence national data,0.0,-inf,0.0
+GRL,cases,2021,52,True,Greenland,America,56772,93.0,2021-52,2930.0,Epidemic intelligence national data,1692.73585570352,3.2285891935723563,0.34943278493820923
+GRL,deaths,2021,52,True,Greenland,America,56772,0.0,2021-52,1.0,Epidemic intelligence national data,17.61431691679,1.2458658059038106,0.0760835740623313
+GTM,cases,2021,52,True,Guatemala,America,17915567,1558.0,2021-52,628804.0,Epidemic intelligence national data,27.9589253301333,1.446520474220901,0.005771582795431184
+GTM,deaths,2021,52,True,Guatemala,America,17915567,29.0,2021-52,16110.0,Epidemic intelligence national data,1.84197351945378,0.265283382409274,0.007956251119487312
+GUM,cases,2021,52,True,Guam,Oceania,168783,65.0,2021-52,19689.0,Epidemic intelligence national data,177.150542412447,2.2483424864257415,0.03656932484765525
+GUM,deaths,2021,52,True,Guam,Oceania,168783,1.0,2021-52,273.0,Epidemic intelligence national data,17.7743019142923,1.2497925528209732,0.07677461592695936
+GUY,cases,2021,52,True,Guyana,America,786559,302.0,2021-52,39779.0,Epidemic intelligence national data,115.566664420597,2.0628325784961024,0.023856516808834966
+GUY,deaths,2021,52,True,Guyana,America,786559,7.0,2021-52,1054.0,Epidemic intelligence national data,30.5126506721047,1.4844799369857395,0.13179685185726683
+HND,cases,2021,52,True,Honduras,America,9904608,243.0,2021-52,379276.0,Epidemic intelligence national data,4.76545866328077,0.6781047067257785,0.0009837373542997566
+HND,deaths,2021,52,True,Honduras,America,9904608,7.0,2021-52,10432.0,Epidemic intelligence national data,0.403852429091591,-0.3937773005803465,0.0017444069130920356
+HRV,cases,2021,52,True,Croatia,Europe,4058165,23162.0,2021-52,722054.0,Epidemic intelligence national data,1141.50114645412,3.057476352005359,0.23564097332235198
+HRV,deaths,2021,52,True,Croatia,Europe,4058165,305.0,2021-52,12653.0,Epidemic intelligence national data,150.314243013776,2.1770001340747216,0.6492698465110873
+HTI,cases,2021,52,True,Haiti,America,11402533,123.0,2021-52,25974.0,Epidemic intelligence national data,0.499888928188149,-0.3011264821312685,0.00010319246192369656
+HTI,deaths,2021,52,True,Haiti,America,11402533,4.0,2021-52,766.0,Epidemic intelligence national data,0.0876998119628332,-1.0570013378037597,0.00037881202945579427
+HUN,cases,2021,52,True,Hungary,Europe,9769526,16961.0,2021-52,1262361.0,TESSy COVID-19,346.792669367992,2.5400699086234395,0.07158868162749998
+HUN,deaths,2021,52,True,Hungary,Europe,9769526,582.0,2021-52,38276.0,TESSy COVID-19,143.814551494105,2.157802831205868,0.6211949706328284
+IDN,cases,2021,52,True,Indonesia,Asia,273523621,1401.0,2021-52,4263168.0,Epidemic intelligence national data,0.959332137534111,-0.018031006463058757,0.00019803568251347016
+IDN,deaths,2021,52,True,Indonesia,Asia,273523621,66.0,2021-52,144097.0,Epidemic intelligence national data,0.34731918089078,-0.45927123187783303,0.0015002162585926492
+IMN,cases,2021,52,True,Isle Of Man,Europe,85032,515.0,2021-52,16594.0,Epidemic intelligence national data,4112.56938564305,3.614113238264461,0.8489609107261511
+IMN,deaths,2021,52,True,Isle Of Man,Europe,85032,0.0,2021-52,67.0,Epidemic intelligence national data,0.0,-inf,0.0
+IND,cases,2021,52,True,India,Asia,1380004385,48978.0,2021-52,34922882.0,Epidemic intelligence national data,12.7567710591007,1.1057407614796906,0.002633390214415978
+IND,deaths,2021,52,True,India,Asia,1380004385,1918.0,2021-52,481893.0,Epidemic intelligence national data,3.14419290776384,0.4975091837437163,0.013581079249010253
+IRL,cases,2021,52,True,Ireland,Europe,4964440,74882.0,2021-52,772490.0,TESSy COVID-19,2238.33906744769,3.3499258748499416,0.46206208212513494
+IRL,deaths,2021,52,True,Ireland,Europe,4964440,38.0,2021-52,5911.0,Epidemic intelligence national data,15.3088767313131,1.1849433260810893,0.0661254173011793
+IRN,cases,2021,52,True,Iran,Asia,83992953,16166.0,2021-52,6196913.0,Epidemic intelligence national data,30.8763998332098,1.4896266561805127,0.006373839336025665
+IRN,deaths,2021,52,True,Iran,Asia,83992953,361.0,2021-52,131680.0,Epidemic intelligence national data,7.10773914568762,0.8517314808007862,0.030701286928202183
+IRQ,cases,2021,52,True,Iraq,Asia,40222503,2643.0,2021-52,2094349.0,Epidemic intelligence national data,9.61899362652792,0.983129636974572,0.001985656368000539
+IRQ,deaths,2021,52,True,Iraq,Asia,40222503,85.0,2021-52,24174.0,Epidemic intelligence national data,2.75964924410597,0.44085388603998477,0.01192007493914539
+ISL,cases,2021,52,True,Iceland,Europe,364134,6853.0,2021-52,31059.0,TESSy COVID-19,2793.47712655231,3.446145119636479,0.5766596653006256
+ISL,deaths,2021,52,True,Iceland,Europe,364134,1.0,2021-52,38.0,TESSy COVID-19,2.7462417681403,0.4387387681328083,0.011862162464001342
+ISR,cases,2021,52,True,Israel,Asia,8655541,5725.0,2021-52,1399630.0,Epidemic intelligence national data,501.747955442647,2.700485611469866,0.10357622237198297
+ISR,deaths,2021,52,True,Israel,Asia,8655541,16.0,2021-52,8244.0,Epidemic intelligence national data,1.3863951427184,0.14188702814333085,0.005988418286043566
+ITA,cases,2021,52,True,Italy,Europe,59641488,478107.0,2021-52,6188236.0,TESSy COVID-19,1269.58603044914,3.103662135129723,0.26208163597628137
+ITA,deaths,2021,52,True,Italy,Europe,59641488,688.0,2021-52,138087.0,TESSy COVID-19,26.6928283211177,1.4263945932396143,0.11529744753070775
+JAM,cases,2021,52,True,Jamaica,America,2961161,287.0,2021-52,95946.0,Epidemic intelligence national data,130.252964968808,2.114787617997946,0.026888221302899726
+JAM,deaths,2021,52,True,Jamaica,America,2961161,21.0,2021-52,2477.0,Epidemic intelligence national data,9.45575063294431,0.9756960104741229,0.040843326879783516
+JEY,cases,2021,52,True,Jersey,Europe,107796,873.0,2021-52,19422.0,Epidemic intelligence national data,2722.73553749675,3.4350054598549726,0.5620564238135686
+JEY,deaths,2021,52,True,Jersey,Europe,107796,3.0,2021-52,89.0,Epidemic intelligence national data,18.5535641396712,1.2684273499353205,0.08014057417096473
+JOR,cases,2021,52,True,Jordan,Asia,10203140,30210.0,2021-52,1065571.0,Epidemic intelligence national data,248.237307338721,2.394867051754818,0.05124382125933073
+JOR,deaths,2021,52,True,Jordan,Asia,10203140,286.0,2021-52,12710.0,Epidemic intelligence national data,43.3199975693757,1.6366884235856292,0.18711711950112078
+JPN,cases,2021,52,True,Japan,Asia,126476458,1144.0,2021-52,1734808.0,Epidemic intelligence national data,3.82996177834139,0.5831944398855283,0.0007906220015978275
+JPN,deaths,2021,52,True,Japan,Asia,126476458,6.0,2021-52,18395.0,Epidemic intelligence national data,0.126505756510038,-0.8978897119295604,0.000546431073098733
+KAZ,cases,2021,52,True,Kazakhstan,Asia,18776707,3125.0,2021-52,1073789.0,Epidemic intelligence national data,36.5079989797998,1.5623880297219348,0.007536374746862531
+KAZ,deaths,2021,52,True,Kazakhstan,Asia,18776707,67.0,2021-52,18244.0,Epidemic intelligence national data,6.81695677522156,0.8335905402442721,0.029445276710838245
+KEN,cases,2021,52,True,Kenya,Africa,53771300,8392.0,2021-52,299732.0,Epidemic intelligence national data,65.0997837136168,1.8135795456781953,0.013438599203341074
+KEN,deaths,2021,52,True,Kenya,Africa,53771300,5.0,2021-52,5394.0,Epidemic intelligence national data,0.762488539425307,-0.11776667959003395,0.003293505705335993
+KGZ,cases,2021,52,True,Kyrgyzstan,Asia,6524191,278.0,2021-52,184827.0,Epidemic intelligence national data,8.55278455213834,0.9321075321254686,0.0017655579959273027
+KGZ,deaths,2021,52,True,Kyrgyzstan,Asia,6524191,16.0,2021-52,2805.0,Epidemic intelligence national data,2.91223846757399,0.4642269341407193,0.012579171374146879
+KHM,cases,2021,52,True,Cambodia,Asia,16718971,46.0,2021-52,120510.0,Epidemic intelligence national data,0.562235558635756,-0.25008169086849596,0.00011606272554776694
+KHM,deaths,2021,52,True,Cambodia,Asia,16718971,16.0,2021-52,3013.0,Epidemic intelligence national data,0.478498347775111,-0.3201195574762515,0.0020668337383522766
+KNA,cases,2021,52,True,Saint Kitts And Nevis,America,53192,5.0,2021-52,3252.0,Epidemic intelligence national data,847.87186043014,2.9283302219346266,0.1750268504460252
+KNA,deaths,2021,52,True,Saint Kitts And Nevis,America,53192,0.0,2021-52,28.0,Epidemic intelligence national data,0.0,-inf,0.0
+KOR,cases,2021,52,True,South Korea,Asia,51269183,47326.0,2021-52,642207.0,Epidemic intelligence national data,140.031488311409,2.1462257046941726,0.028906809514802543
+KOR,deaths,2021,52,True,South Korea,Asia,51269183,483.0,2021-52,5730.0,Epidemic intelligence national data,18.6076692503565,1.269691977907714,0.08037427668781066
+KWT,cases,2021,52,True,Kuwait,Asia,4270563,387.0,2021-52,418332.0,Epidemic intelligence national data,99.1438365386484,1.9962657206547305,0.020466339620814622
+KWT,deaths,2021,52,True,Kuwait,Asia,4270563,0.0,2021-52,2468.0,Epidemic intelligence national data,0.468322326587853,-0.3294551373646812,0.002022879262835681
+LAO,cases,2021,52,True,Laos,Asia,7275556,5234.0,2021-52,107740.0,Epidemic intelligence national data,181.237007865791,2.2582468835772054,0.03741289710324637
+LAO,deaths,2021,52,True,Laos,Asia,7275556,15.0,2021-52,342.0,Epidemic intelligence national data,10.9957232134561,1.0412237991614632,0.04749511011025581
+LBN,cases,2021,52,True,Lebanon,Asia,6825442,10889.0,2021-52,732733.0,Epidemic intelligence national data,465.757382452301,2.668159747374802,0.09614666027629991
+LBN,deaths,2021,52,True,Lebanon,Asia,6825442,88.0,2021-52,9154.0,Epidemic intelligence national data,31.9393234899659,1.5043257130646341,0.1379592462046168
+LBR,cases,2021,52,True,Liberia,Africa,5057677,77.0,2021-52,6404.0,Epidemic intelligence national data,9.64869840442559,0.9844687315923555,0.001991788348505223
+LBR,deaths,2021,52,True,Liberia,Africa,5057677,0.0,2021-52,287.0,Epidemic intelligence national data,0.0,-inf,0.0
+LBY,cases,2021,52,True,Libya,Africa,6871287,4236.0,2021-52,390294.0,Epidemic intelligence national data,115.742509372698,2.0634928939157415,0.023892816619654797
+LBY,deaths,2021,52,True,Libya,Africa,6871287,54.0,2021-52,5727.0,Epidemic intelligence national data,17.46397727238,1.2421431575106123,0.075434194496606
+LCA,cases,2021,52,True,Saint Lucia,America,183629,80.0,2021-52,13816.0,Epidemic intelligence national data,353.974590070196,2.548972087482354,0.07307125112806362
+LCA,deaths,2021,52,True,Saint Lucia,America,183629,10.0,2021-52,301.0,Epidemic intelligence national data,43.5661033932549,1.639148717831442,0.18818015309854833
+LIE,cases,2021,52,True,Liechtenstein,Europe,38747,295.0,2021-52,6238.0,TESSy COVID-19,1450.43487237722,3.161498232826927,0.29941440368179834
+LIE,deaths,2021,52,True,Liechtenstein,Europe,38747,0.0,2021-52,68.0,TESSy COVID-19,25.8084496864273,1.4117619172578642,0.11147744771638213
+LKA,cases,2021,52,True,Sri Lanka,Asia,21413250,7497.0,2021-52,587935.0,Epidemic intelligence national data,38.5275471962453,1.5857713611271034,0.007953271662711371
+LKA,deaths,2021,52,True,Sri Lanka,Asia,21413250,157.0,2021-52,15019.0,Epidemic intelligence national data,12.4689152744212,1.095828673941753,0.053858440451589475
+LSO,cases,2021,52,True,Lesotho,Africa,2142252,2426.0,2021-52,29756.0,Epidemic intelligence national data,197.362401808938,2.295264421676356,0.04074167477094557
+LSO,deaths,2021,52,True,Lesotho,Africa,2142252,1.0,2021-52,671.0,Epidemic intelligence national data,2.80079094336241,0.44728069342461074,0.012097783080608644
+LTU,cases,2021,52,True,Lithuania,Europe,2794090,12260.0,2021-52,509376.0,TESSy COVID-19,774.098185813628,2.888796049639792,0.15979769316817036
+LTU,deaths,2021,52,True,Lithuania,Europe,2794090,146.0,2021-52,7461.0,Epidemic intelligence national data,104.506297220204,2.019142460452696,0.45140624198456925
+LUX,cases,2021,52,True,Luxembourg,Europe,626108,5640.0,2021-52,109652.0,TESSy COVID-19,1325.80960473273,3.122481160908179,0.273687912333516
+LUX,deaths,2021,52,True,Luxembourg,Europe,626108,8.0,2021-52,914.0,Epidemic intelligence national data,25.5546966338076,1.4074707297034892,0.11038138255167905
+LVA,cases,2021,52,True,Latvia,Europe,1907675,5590.0,2021-52,277019.0,TESSy COVID-19,518.012764228708,2.7143404612236033,0.1069337795546059
+LVA,deaths,2021,52,True,Latvia,Europe,1907675,72.0,2021-52,4887.0,TESSy COVID-19,73.387762590588,1.865623647348443,0.31699232486316214
+MAR,cases,2021,52,True,Morocco,Africa,36910558,1332.0,2021-52,966777.0,Epidemic intelligence national data,37.8292845098684,1.577828127273327,0.007809128750929244
+MAR,deaths,2021,52,True,Morocco,Africa,36910558,13.0,2021-52,14855.0,Epidemic intelligence national data,1.24625588158272,0.09560722093487177,0.005383098425839758
+MCO,cases,2021,52,True,Monaco,Europe,39244,309.0,2021-52,5289.0,Epidemic intelligence national data,2206.70675772093,3.3437446249762957,0.45553219971932046
+MCO,deaths,2021,52,True,Monaco,Europe,39244,1.0,2021-52,39.0,Epidemic intelligence national data,50.9632045663031,1.707256728622929,0.22013131519043225
+MDA,cases,2021,52,True,Moldova,Europe,4033963,2541.0,2021-52,376844.0,Epidemic intelligence national data,115.122523434152,2.0611603005734116,0.02376483243807165
+MDA,deaths,2021,52,True,Moldova,Europe,4033963,125.0,2021-52,10306.0,Epidemic intelligence national data,201.538784564955,2.3043586351009413,0.8705299850296089
+MDG,cases,2021,52,True,Madagascar,Africa,27691019,994.0,2021-52,52434.0,Epidemic intelligence national data,23.9788936622376,1.379829141754103,0.004949981749308694
+MDG,deaths,2021,52,True,Madagascar,Africa,27691019,8.0,2021-52,1067.0,Epidemic intelligence national data,3.14181287441968,0.49718031500470344,0.013570798893316265
+MDV,cases,2021,52,True,Maldives,Asia,540542,838.0,2021-52,96052.0,Epidemic intelligence national data,387.573953550325,2.5883545831118093,0.0800071939767091
+MDV,deaths,2021,52,True,Maldives,Asia,540542,1.0,2021-52,262.0,Epidemic intelligence national data,5.54998501504046,0.7442918105291582,0.023972697773716002
+MEX,cases,2021,52,True,Mexico,America,128932753,15115.0,2021-52,3990587.0,Epidemic intelligence national data,43.8096594431673,1.641569877178904,0.009043662219855364
+MEX,deaths,2021,52,True,Mexico,America,128932753,1195.0,2021-52,299544.0,Epidemic intelligence national data,12.626737288391,1.1012911446405658,0.05454013948909753
+MHL,cases,2021,52,True,Marshall Islands,Oceania,59194,0.0,2021-52,4.0,Epidemic intelligence national data,0.0,-inf,0.0
+MHL,deaths,2021,52,True,Marshall Islands,Oceania,59194,0.0,2021-52,0.0,Epidemic intelligence national data,0.0,-inf,0.0
+MKD,cases,2021,52,True,North Macedonia,Europe,2076255,1877.0,2021-52,225730.0,Epidemic intelligence national data,214.087383293478,2.3305910739853513,0.04419422576316985
+MKD,deaths,2021,52,True,North Macedonia,Europe,2076255,83.0,2021-52,7975.0,Epidemic intelligence national data,77.0618252574949,1.8868392913350438,0.3328621323809776
+MLI,cases,2021,52,True,Mali,Africa,20250834,715.0,2021-52,21549.0,Epidemic intelligence national data,11.0760870391807,1.0443863599019374,0.002286445299352601
+MLI,deaths,2021,52,True,Mali,Africa,20250834,10.0,2021-52,668.0,Epidemic intelligence national data,1.4320397866083,0.15595508421792748,0.006185576521605664
+MLT,cases,2021,52,True,Malta,Europe,514564,7596.0,2021-52,54089.0,TESSy COVID-19,2443.4278340498,3.387999516788878,0.5043987164156238
+MLT,deaths,2021,52,True,Malta,Europe,514564,4.0,2021-52,479.0,Epidemic intelligence national data,15.5471428238276,1.1916505882273158,0.06715458783228796
+MMR,cases,2021,52,True,Myanmar,Asia,54409794,1592.0,2021-52,531025.0,Epidemic intelligence national data,5.09467100720874,0.7071161443057381,0.001051696915614168
+MMR,deaths,2021,52,True,Myanmar,Asia,54409794,37.0,2021-52,19274.0,Epidemic intelligence national data,0.992468378027676,-0.0032833218110628402,0.0042868844531923755
+MNE,cases,2021,52,True,Montenegro,Europe,621873,1207.0,2021-52,173161.0,Epidemic intelligence national data,1956.34800031518,3.2914461107653223,0.40385044586552643
+MNE,deaths,2021,52,True,Montenegro,Europe,621873,25.0,2021-52,2416.0,Epidemic intelligence national data,65.9298602769376,1.8190821553581529,0.2847785373112087
+MNG,cases,2021,52,True,Mongolia,Asia,3278292,1073.0,2021-52,388190.0,Epidemic intelligence national data,54.6321072070456,1.7374479519468153,0.011277748565482259
+MNG,deaths,2021,52,True,Mongolia,Asia,3278292,5.0,2021-52,1981.0,Epidemic intelligence national data,3.96547958510102,0.5982957184046204,0.017128558611211753
+MNP,cases,2021,52,True,Northern Mariana Islands,Oceania,57557,297.0,2021-52,2963.0,Epidemic intelligence national data,1316.95536598502,3.1195710561805448,0.2718601249125222
+MNP,deaths,2021,52,True,Northern Mariana Islands,Oceania,57557,0.0,2021-52,12.0,Epidemic intelligence national data,104.244488072693,2.018053100932135,0.4502753791893245
+MOZ,cases,2021,52,True,Mozambique,Africa,31255435,6783.0,2021-52,192453.0,Epidemic intelligence national data,102.369395914663,2.0101701405076193,0.021132194362383793
+MOZ,deaths,2021,52,True,Mozambique,Africa,31255435,8.0,2021-52,2019.0,Epidemic intelligence national data,2.14362718036079,0.33114925509198384,0.009259218969970064
+MRT,cases,2021,52,True,Mauritania,Africa,4649660,305.0,2021-52,42182.0,Epidemic intelligence national data,45.1430857309997,1.6545912417187774,0.00931892245003076
+MRT,deaths,2021,52,True,Mauritania,Africa,4649660,4.0,2021-52,872.0,Epidemic intelligence national data,4.08632029008573,0.6113324040892061,0.017650519966334464
+MSR,cases,2021,52,True,Montserrat,America,4999,0.0,2021-52,53.0,Epidemic intelligence national data,180.03600720144,2.255359372686734,0.03716497359796775
+MSR,deaths,2021,52,True,Montserrat,America,4999,0.0,2021-52,1.0,Epidemic intelligence national data,0.0,-inf,0.0
+MUS,cases,2021,52,True,Mauritius,Africa,1271767,3111.0,2021-52,68310.0,Epidemic intelligence national data,194.847012070607,2.289693750384305,0.04022242090241764
+MUS,deaths,2021,52,True,Mauritius,Africa,1271767,60.0,2021-52,786.0,Epidemic intelligence national data,31.4523021905742,1.497652439672223,0.13585559828700264
+MWI,cases,2021,52,True,Malawi,Africa,19129955,2476.0,2021-52,76066.0,Epidemic intelligence national data,59.2003483541911,1.7723242622610587,0.012220774153873858
+MWI,deaths,2021,52,True,Malawi,Africa,19129955,3.0,2021-52,2371.0,Epidemic intelligence national data,3.13644229691079,0.4964373019598333,0.01354760113131474
+MYS,cases,2021,52,True,Malaysia,Asia,32365998,27316.0,2021-52,2764354.0,Epidemic intelligence national data,140.267573396007,2.146957283837686,0.028955544743229054
+MYS,deaths,2021,52,True,Malaysia,Asia,32365998,256.0,2021-52,31532.0,Epidemic intelligence national data,12.2659588621367,1.0887015038067989,0.05298178714176093
+NAM,cases,2021,52,True,Namibia,Africa,2540916,6428.0,2021-52,149741.0,Epidemic intelligence national data,402.335220841618,2.6045880528238583,0.083054373914107
+NAM,deaths,2021,52,True,Namibia,Africa,2540916,5.0,2021-52,3656.0,Epidemic intelligence national data,28.7297966560091,1.458332552149772,0.1240959625059099
+NCL,cases,2021,52,True,New Caledonia,Oceania,285491,130.0,2021-52,12854.0,Epidemic intelligence national data,117.341702540535,2.0694523852148574,0.024222939314467798
+NCL,deaths,2021,52,True,New Caledonia,Oceania,285491,0.0,2021-52,281.0,Epidemic intelligence national data,3.50273738926971,0.5444075781780131,0.015129782258168065
+NER,cases,2021,52,True,Niger,Africa,24206636,38.0,2021-52,7307.0,Epidemic intelligence national data,0.446158648397076,-0.35051068417585696,9.21008782961372e-05
+NER,deaths,2021,52,True,Niger,Africa,24206636,4.0,2021-52,274.0,Epidemic intelligence national data,0.0826219719253844,-1.0829044439988258,0.0003568787225673706
+NGA,cases,2021,52,True,Nigeria,Africa,206139587,6424.0,2021-52,243450.0,Epidemic intelligence national data,9.48143938990234,0.9768742731650085,0.0019572609394862953
+NGA,deaths,2021,52,True,Nigeria,Africa,206139587,4.0,2021-52,3039.0,Epidemic intelligence national data,0.261958417526082,-0.5817676417802882,0.0011315075546357834
+NIC,cases,2021,52,True,Nicaragua,America,6624554,63.0,2021-52,17487.0,Epidemic intelligence national data,1.44915416192547,0.1611145884471887,0.0002991500256228433
+NIC,deaths,2021,52,True,Nicaragua,America,6624554,0.0,2021-52,212.0,Epidemic intelligence national data,0.301907117067806,-0.5201266489283989,0.0013040626332479648
+NLD,cases,2021,52,True,Netherlands,Europe,17407585,100933.0,2021-52,3165633.0,TESSy COVID-19,1069.31547368575,3.029105851390749,0.22073962850644366
+NLD,deaths,2021,52,True,Netherlands,Europe,17407585,247.0,2021-52,20957.0,Epidemic intelligence national data,28.3784338838501,1.4529884244417726,0.12257828029180012
+NOR,cases,2021,52,True,Norway,Europe,5367580,25104.0,2021-52,402572.0,TESSy COVID-19,892.022103070658,2.950375615724431,0.18414081952134911
+NOR,deaths,2021,52,True,Norway,Europe,5367580,49.0,2021-52,1305.0,Epidemic intelligence national data,18.2577623435515,1.2614475496825537,0.07886288296277537
+NPL,cases,2021,52,True,Nepal,Asia,29136808,1514.0,2021-52,828986.0,Epidemic intelligence national data,11.1542760620861,1.0474413888337752,0.002302585920426688
+NPL,deaths,2021,52,True,Nepal,Asia,29136808,19.0,2021-52,11596.0,Epidemic intelligence national data,0.789379536701481,-0.10271413612750457,0.0034096591271539868
+NZL,cases,2021,52,True,New Zealand,Oceania,4822233,508.0,2021-52,13934.0,Epidemic intelligence national data,16.7764602000774,1.2247003308819964,0.003463177783684187
+NZL,deaths,2021,52,True,New Zealand,Oceania,4822233,2.0,2021-52,51.0,Epidemic intelligence national data,0.414745616812792,-0.3822181950662937,0.0017914591296881196
+OMN,cases,2021,52,True,Oman,Asia,5106622,150.0,2021-52,306008.0,Epidemic intelligence national data,22.2064605525923,1.3464793426558845,0.004584096997985435
+OMN,deaths,2021,52,True,Oman,Asia,5106622,0.0,2021-52,4117.0,Epidemic intelligence national data,0.783296668521774,-0.10607372057304093,0.0033833846849574242
+PAK,cases,2021,52,True,Pakistan,Asia,220892331,2174.0,2021-52,1295933.0,Epidemic intelligence national data,2.02179948021826,0.305738080556141,0.00041736164598797854
+PAK,deaths,2021,52,True,Pakistan,Asia,220892331,42.0,2021-52,28933.0,Epidemic intelligence national data,0.248990083770722,-0.6038179486850338,0.0010754919176739854
+PAN,cases,2021,52,True,Panama,America,4314768,2605.0,2021-52,498785.0,Epidemic intelligence national data,356.890567465041,2.552535069804869,0.07367319861943643
+PAN,deaths,2021,52,True,Panama,America,4314768,12.0,2021-52,7433.0,Epidemic intelligence national data,8.11167599277644,0.90911059517472,0.03503770847779842
+PER,cases,2021,52,True,Peru,America,32971846,10887.0,2021-52,2304674.0,Epidemic intelligence national data,116.672266393577,2.066967634248919,0.024084747087735166
+PER,deaths,2021,52,True,Peru,America,32971846,447.0,2021-52,202818.0,Epidemic intelligence national data,15.8620175527934,1.20035842612902,0.06851466298449499
+PHL,cases,2021,52,True,Philippines,Asia,109581085,774.0,2021-52,2851931.0,Epidemic intelligence national data,13.0989759774691,1.1172373456773281,0.0027040318430210063
+PHL,deaths,2021,52,True,Philippines,Asia,109581085,398.0,2021-52,51570.0,Epidemic intelligence national data,7.58342555195543,0.8798654275651421,0.032755974719542134
+PLW,cases,2021,52,True,Palau,Oceania,18092,0.0,2021-52,10.0,Epidemic intelligence national data,11.054609772275,1.0435434165900987,0.002282011730368738
+PLW,deaths,2021,52,True,Palau,Oceania,18092,0.0,2021-52,0.0,Epidemic intelligence national data,0.0,-inf,0.0
+PNG,cases,2021,52,True,Papua New Guinea,Oceania,8947027,50.0,2021-52,36192.0,Epidemic intelligence national data,2.07890285789905,0.3178341962751604,0.00042914954084773724
+PNG,deaths,2021,52,True,Papua New Guinea,Oceania,8947027,2.0,2021-52,590.0,Epidemic intelligence national data,0.111768970854788,-0.9516787479427544,0.00048277675552635196
+POL,cases,2021,52,True,Poland,Europe,37958138,78982.0,2021-52,4105613.0,TESSy COVID-19,435.782703566756,2.639269988887325,0.08995896389986122
+POL,deaths,2021,52,True,Poland,Europe,37958138,3266.0,2021-52,97974.0,TESSy COVID-19,160.835075735275,2.2063807679018046,0.6947137067155421
+PRI,cases,2021,52,True,Puerto Rico,America,2860840,6349.0,2021-52,303099.0,Epidemic intelligence national data,3748.26973895779,3.573830836731667,0.7737582500958372
+PRI,deaths,2021,52,True,Puerto Rico,America,2860840,9.0,2021-52,3314.0,Epidemic intelligence national data,10.1368828735616,1.0059044284754453,0.043785420832109845
+PRT,cases,2021,52,True,Portugal,Europe,10295909,148433.0,2021-52,1434548.0,TESSy COVID-19,2007.62263924438,3.3026820844215914,0.41443510963179664
+PRT,deaths,2021,52,True,Portugal,Europe,10295909,110.0,2021-52,19002.0,TESSy COVID-19,19.7165689789993,1.294831342495175,0.08516407665737252
+PRY,cases,2021,52,True,Paraguay,America,7132530,875.0,2021-52,465564.0,Epidemic intelligence national data,13.0949326536306,1.1171032692193024,0.0027031971765226663
+PRY,deaths,2021,52,True,Paraguay,America,7132530,70.0,2021-52,16607.0,Epidemic intelligence national data,4.48648656227173,0.6519063713091153,0.019379004831852537
+PSE,cases,2021,52,True,Palestine,Asia,5101416,1576.0,2021-52,470656.0,Epidemic intelligence national data,84.8979969482983,1.928897443782667,0.017525559826337984
+PSE,deaths,2021,52,True,Palestine,Asia,5101416,21.0,2021-52,4947.0,Epidemic intelligence national data,15.6819204707085,1.1953992470447674,0.06773674864651943
+PYF,cases,2021,52,True,French Polynesia,Oceania,280904,8.0,2021-52,46382.0,Epidemic intelligence national data,14.2397402671375,1.1535020678417303,0.0029395207064215017
+PYF,deaths,2021,52,True,French Polynesia,Oceania,280904,0.0,2021-52,636.0,Epidemic intelligence national data,0.0,-inf,0.0
+QAT,cases,2021,52,True,Qatar,Asia,2881060,1014.0,2021-52,252359.0,Epidemic intelligence national data,202.078401699375,2.3055198982553624,0.0417152023121335
+QAT,deaths,2021,52,True,Qatar,Asia,2881060,1.0,2021-52,618.0,Epidemic intelligence national data,1.38837788869375,0.14250768848053333,0.005996982592055259
+ROU,cases,2021,52,True,Romania,Europe,19328838,9351.0,2021-52,1797288.0,TESSy COVID-19,71.2665707064232,1.8528858613771528,0.014711613859323222
+ROU,deaths,2021,52,True,Romania,Europe,19328838,165.0,2021-52,57034.0,TESSy COVID-19,18.2628671211379,1.2615689592411539,0.0788849326241617
+RUS,cases,2021,52,True,Russia,Europe,145934460,168336.0,2021-52,10554309.0,Epidemic intelligence national data,232.651698577567,2.366706227641569,0.04802647186839229
+RUS,deaths,2021,52,True,Russia,Europe,145934460,7618.0,2021-52,311353.0,Epidemic intelligence national data,89.9787479941338,1.954139945897542,0.3886557037316612
+RWA,cases,2021,52,True,Rwanda,Africa,12952209,948.0,2021-52,113582.0,Epidemic intelligence national data,92.648288797687,1.9668374023641986,0.019125458626786232
+RWA,deaths,2021,52,True,Rwanda,Africa,12952209,0.0,2021-52,1355.0,Epidemic intelligence national data,0.849275980645464,-0.07095115852520131,0.0036683768253996923
+SAU,cases,2021,52,True,Saudi Arabia,Asia,34813867,602.0,2021-52,559852.0,Epidemic intelligence national data,25.880491816666,1.4129725251355594,0.005342530141721112
+SAU,deaths,2021,52,True,Saudi Arabia,Asia,34813867,9.0,2021-52,8881.0,Epidemic intelligence national data,0.545759538864212,-0.26299866489067375,0.0023573628481623906
+SDN,cases,2021,52,True,Sudan,Africa,43849269,949.0,2021-52,46988.0,Epidemic intelligence national data,2.64998716398214,0.4232437703046466,0.0005470389202430721
+SDN,deaths,2021,52,True,Sudan,Africa,43849269,50.0,2021-52,3337.0,Epidemic intelligence national data,0.980632083057075,-0.008493902170078432,0.004235758563424779
+SEN,cases,2021,52,True,Senegal,Africa,16743930,75.0,2021-52,75671.0,Epidemic intelligence national data,9.01819345876386,0.955119547578717,0.0018616327200664758
+SEN,deaths,2021,52,True,Senegal,Africa,16743930,0.0,2021-52,1890.0,Epidemic intelligence national data,0.23889254195401,-0.6217974083864892,0.001031876427258516
+SGP,cases,2021,52,True,Singapore,Asia,5850343,2209.0,2021-52,280290.0,Epidemic intelligence national data,74.8674052102586,1.8742927814064612,0.015454936938666784
+SGP,deaths,2021,52,True,Singapore,Asia,5850343,15.0,2021-52,829.0,Epidemic intelligence national data,2.7348823821099,0.4369386535582859,0.011813096542658531
+SLB,cases,2021,52,True,Solomon Islands,Oceania,686878,0.0,2021-52,24.0,Epidemic intelligence national data,0.582345045262769,-0.23481961526304332,0.00012021394258028755
+SLB,deaths,2021,52,True,Solomon Islands,Oceania,686878,0.0,2021-52,0.0,Epidemic intelligence national data,0.0,-inf,0.0
+SLE,cases,2021,52,True,Sierra Leone,Africa,7976985,84.0,2021-52,7179.0,Epidemic intelligence national data,8.44930760180695,0.9268211211348807,0.001744197168241531
+SLE,deaths,2021,52,True,Sierra Leone,Africa,7976985,0.0,2021-52,123.0,Epidemic intelligence national data,0.250721293822165,-0.6008087797364574,0.0010829697352236893
+SLV,cases,2021,52,True,El Salvador,America,6486201,330.0,2021-52,122063.0,Epidemic intelligence national data,8.21744500363156,0.9147368061884945,0.0016963335909855495
+SLV,deaths,2021,52,True,El Salvador,America,6486201,9.0,2021-52,3826.0,Epidemic intelligence national data,2.62094868783746,0.4184585185401965,0.01132096944472325
+SMR,cases,2021,52,True,San Marino,Europe,34453,560.0,2021-52,8487.0,Epidemic intelligence national data,3851.62395147012,3.5856438787189133,0.7950937409177463
+SMR,deaths,2021,52,True,San Marino,Europe,34453,2.0,2021-52,102.0,Epidemic intelligence national data,174.150291701739,2.2409242062381227,0.7522276724813528
+SOM,cases,2021,52,True,Somalia,Africa,15893219,95.0,2021-52,23532.0,Epidemic intelligence national data,2.28399294063714,0.3586947572589796,0.0004714864468292046
+SOM,deaths,2021,52,True,Somalia,Africa,15893219,0.0,2021-52,1333.0,Epidemic intelligence national data,0.0,-inf,0.0
+SRB,cases,2021,52,True,Serbia,Europe,6926705,8414.0,2021-52,1302856.0,Epidemic intelligence national data,294.440141452538,2.468997017699875,0.06078150839582683
+SRB,deaths,2021,52,True,Serbia,Europe,6926705,223.0,2021-52,12760.0,Epidemic intelligence national data,51.8283945974313,1.7145677566250803,0.22386843143072124
+SSD,cases,2021,52,True,South Sudan,Africa,11193729,568.0,2021-52,15655.0,Epidemic intelligence national data,19.6181272567882,1.2926575473425297,0.004049785333909989
+SSD,deaths,2021,52,True,South Sudan,Africa,11193729,0.0,2021-52,136.0,Epidemic intelligence national data,0.268007202961587,-0.5718535337158628,0.0011576347792589942
+STP,cases,2021,52,True,Sao Tome And Principe,Africa,219161,6.0,2021-52,3897.0,Epidemic intelligence national data,70.7242620721753,1.8495684247800823,0.014599664664342343
+STP,deaths,2021,52,True,Sao Tome And Principe,Africa,219161,0.0,2021-52,57.0,Epidemic intelligence national data,0.0,-inf,0.0
+SUR,cases,2021,52,True,Suriname,America,586634,214.0,2021-52,51683.0,Epidemic intelligence national data,45.5138979329531,1.658144031249749,0.009395469502532222
+SUR,deaths,2021,52,True,Suriname,America,586634,8.0,2021-52,1187.0,Epidemic intelligence national data,3.40928074404143,0.5326627655491549,0.01472610406715828
+SVK,cases,2021,52,True,Slovakia,Europe,5457873,19839.0,2021-52,1237518.0,TESSy COVID-19,729.551603710823,2.8630560164683003,0.1506019074280542
+SVK,deaths,2021,52,True,Slovakia,Europe,5457873,329.0,2021-52,16787.0,Epidemic intelligence national data,120.559785835984,2.0812024678207344,0.5207479482697129
+SVN,cases,2021,52,True,Slovenia,Europe,2095861,10804.0,2021-52,467565.0,TESSy COVID-19,878.159381752893,2.9435733454436797,0.18127912713114708
+SVN,deaths,2021,52,True,Slovenia,Europe,2095861,17.0,2021-52,6073.0,TESSy COVID-19,31.9677688549002,1.5047123263618205,0.13808211358800343
+SWE,cases,2021,52,True,Sweden,Europe,10327589,59466.0,2021-52,1347621.0,TESSy COVID-19,847.361373501599,2.9280686630430086,0.17492147023061025
+SWE,deaths,2021,52,True,Sweden,Europe,10327589,20.0,2021-52,15326.0,TESSy COVID-19,5.0350570689829,0.7020043973531724,0.021748509421382546
+SWZ,cases,2021,52,True,Eswatini,Africa,1160164,7393.0,2021-52,66286.0,Epidemic intelligence national data,538.716940018825,2.7313606322027724,0.11120775873559513
+SWZ,deaths,2021,52,True,Eswatini,Africa,1160164,11.0,2021-52,1310.0,Epidemic intelligence national data,42.2354080974759,1.6256766948872112,0.18243232565970557
+SXM,cases,2021,52,True,Sint Maarten,America,42882,64.0,2021-52,5495.0,Epidemic intelligence national data,1863.25264679819,3.2702717468291804,0.3846326993195192
+SXM,deaths,2021,52,True,Sint Maarten,America,42882,0.0,2021-52,75.0,Epidemic intelligence national data,0.0,-inf,0.0
+SYC,cases,2021,52,True,Seychelles,Africa,98340,290.0,2021-52,25251.0,Epidemic intelligence national data,1141.95647752695,3.057649552307316,0.23573496767138866
+SYC,deaths,2021,52,True,Seychelles,Africa,98340,0.0,2021-52,126.0,Epidemic intelligence national data,0.0,-inf,0.0
+SYR,cases,2021,52,True,Syria,Asia,17500657,479.0,2021-52,50337.0,Epidemic intelligence national data,3.34844571835217,0.5248432629821577,0.000691222265208019
+SYR,deaths,2021,52,True,Syria,Asia,17500657,31.0,2021-52,2905.0,Epidemic intelligence national data,3.42844271503636,0.5350968973477117,0.014808872604039963
+TCA,cases,2021,52,True,Turks And Caicos Islands,America,38718,35.0,2021-52,3560.0,Epidemic intelligence national data,1002.11787798957,3.0009188101034407,0.20686797633687995
+TCA,deaths,2021,52,True,Turks And Caicos Islands,America,38718,0.0,2021-52,26.0,Epidemic intelligence national data,25.8277803605558,1.412087084509231,0.11156094495239068
+TCD,cases,2021,52,True,Chad,Africa,16425859,0.0,2021-52,6185.0,Epidemic intelligence national data,2.93439752526793,0.4675189477266585,0.0006057499732845233
+TCD,deaths,2021,52,True,Chad,Africa,16425859,0.0,2021-52,184.0,Epidemic intelligence national data,0.182638850120411,-0.7384068357925276,0.0007888932931909383
+TGO,cases,2021,52,True,Togo,Africa,8278737,342.0,2021-52,31390.0,Epidemic intelligence national data,56.1438296687043,1.749302033294136,0.011589814614092956
+TGO,deaths,2021,52,True,Togo,Africa,8278737,2.0,2021-52,250.0,Epidemic intelligence national data,0.603956859603101,-0.21899408175211973,0.002608741325317293
+THA,cases,2021,52,True,Thailand,Asia,69799978,22009.0,2021-52,2232485.0,Epidemic intelligence national data,55.0601892739852,1.7408376999833204,0.011366117880947985
+THA,deaths,2021,52,True,Thailand,Asia,69799978,214.0,2021-52,21738.0,Epidemic intelligence national data,4.72779518641109,0.6746586541383955,0.02042131732477049
+TJK,cases,2021,52,True,Tajikistan,Asia,9537642,0.0,2021-52,17493.0,Epidemic intelligence national data,0.0,-inf,0.0
+TJK,deaths,2021,52,True,Tajikistan,Asia,9537642,0.0,2021-52,125.0,Epidemic intelligence national data,0.0,-inf,0.0
+TLS,cases,2021,52,True,Timor Leste,Asia,1318442,4.0,2021-52,19839.0,Epidemic intelligence national data,0.455082589905358,-0.3419097789797931,9.394305451244276e-05
+TLS,deaths,2021,52,True,Timor Leste,Asia,1318442,0.0,2021-52,122.0,Epidemic intelligence national data,0.0,-inf,0.0
+TON,cases,2021,52,True,Tonga,Oceania,105697,0.0,2021-52,1.0,Epidemic intelligence national data,0.0,-inf,0.0
+TON,deaths,2021,52,True,Tonga,Oceania,105697,0.0,2021-52,0.0,Epidemic intelligence national data,0.0,-inf,0.0
+TTO,cases,2021,52,True,Trinidad And Tobago,America,1399491,4766.0,2021-52,92997.0,Epidemic intelligence national data,511.614579872254,2.708942912405214,0.10561299736009476
+TTO,deaths,2021,52,True,Trinidad And Tobago,America,1399491,183.0,2021-52,2936.0,Epidemic intelligence national data,231.512742847221,2.3645749003039707,1.0
+TUN,cases,2021,52,True,Tunisia,Africa,11818618,1441.0,2021-52,728802.0,Epidemic intelligence national data,65.1429803383103,1.8138676239690035,0.013447516316318695
+TUN,deaths,2021,52,True,Tunisia,Africa,11818618,38.0,2021-52,25588.0,Epidemic intelligence national data,9.56118558024297,0.9805117478234849,0.041298744348394464
+TUR,cases,2021,52,True,Turkey,Europe,83154997,131986.0,2021-52,9551910.0,Epidemic intelligence national data,478.264703683412,2.6796683307754603,0.09872855636787144
+TUR,deaths,2021,52,True,Turkey,Europe,83154997,1275.0,2021-52,82635.0,Epidemic intelligence national data,28.7535335970248,1.458691223891334,0.1241984922445488
+TWN,cases,2021,52,True,Taiwan,Asia,23816775,74.0,2021-52,17095.0,Epidemic intelligence national data,1.17144323696218,0.06872124942350404,0.00024182194245457068
+TWN,deaths,2021,52,True,Taiwan,Asia,23816775,2.0,2021-52,850.0,Epidemic intelligence national data,0.0,-inf,0.0
+TZA,cases,2021,52,True,United Republic Of Tanzania,Africa,59734213,174.0,2021-52,29306.0,Epidemic intelligence national data,4.72593486751052,0.6744877319227371,0.0009755784262657146
+TZA,deaths,2021,52,True,United Republic Of Tanzania,Africa,59734213,0.0,2021-52,737.0,Epidemic intelligence national data,0.050222474681302,-1.29910189150452,0.00021693179417966042
+UGA,cases,2021,52,True,Uganda,Africa,45741000,1010.0,2021-52,146030.0,Epidemic intelligence national data,36.9471590039571,1.5675810495957962,0.007627030893690021
+UGA,deaths,2021,52,True,Uganda,Africa,45741000,3.0,2021-52,3306.0,Epidemic intelligence national data,0.743315624931681,-0.12882673797562222,0.00321068989892365
+UKR,cases,2021,52,True,Ukraine,Europe,43733759,47522.0,2021-52,3676342.0,Epidemic intelligence national data,150.124301000515,2.176450998280565,0.030990276722004963
+UKR,deaths,2021,52,True,Ukraine,Europe,43733759,2047.0,2021-52,96301.0,Epidemic intelligence national data,69.4886529191328,1.8419138926917138,0.3001504455631174
+URY,cases,2021,52,True,Uruguay,America,3473727,2102.0,2021-52,416970.0,Epidemic intelligence national data,349.739631237573,2.5437448477870035,0.07219702526819544
+URY,deaths,2021,52,True,Uruguay,America,3473727,11.0,2021-52,6177.0,Epidemic intelligence national data,6.04538007736359,0.7814236104594378,0.0261125154624989
+USA,cases,2021,52,True,United States Of America,America,331002647,925536.0,2021-52,55114128.0,Epidemic intelligence national data,1289.17005307211,3.11031020846255,0.26612438106399217
+USA,deaths,2021,52,True,United States Of America,America,331002647,9091.0,2021-52,826065.0,Epidemic intelligence national data,59.2986194457835,1.773044582503259,0.2561354451444412
+UZB,cases,2021,52,True,Uzbekistan,Asia,33469199,1310.0,2021-52,199182.0,Epidemic intelligence national data,5.71869078790921,0.7572966146905371,0.0011805138063842114
+UZB,deaths,2021,52,True,Uzbekistan,Asia,33469199,21.0,2021-52,1485.0,Epidemic intelligence national data,0.717077214784853,-0.14443407703868225,0.003097355272828605
+VAT,cases,2021,52,True,Holy See,Europe,809,0.0,2021-52,26.0,Epidemic intelligence national data,0.0,-inf,0.0
+VAT,deaths,2021,52,True,Holy See,Europe,809,0.0,2021-52,0.0,Epidemic intelligence national data,0.0,-inf,0.0
+VCT,cases,2021,52,True,Saint Vincent And The Grenadines,America,110947,36.0,2021-52,5991.0,Epidemic intelligence national data,210.010185043309,2.322240357595085,0.04335256654356903
+VCT,deaths,2021,52,True,Saint Vincent And The Grenadines,America,110947,0.0,2021-52,83.0,Epidemic intelligence national data,54.0798759768178,1.7330356869527102,0.233593517625533
+VEN,cases,2021,52,True,Venezuela,America,28435943,2545.0,2021-52,443612.0,Epidemic intelligence national data,8.38375572774218,0.923438616056741,0.0017306652436738603
+VEN,deaths,2021,52,True,Venezuela,America,28435943,39.0,2021-52,5316.0,Epidemic intelligence national data,1.33633690291192,0.12591596160535093,0.00577219589071946
+VGB,cases,2021,52,True,British Virgin Islands,America,30237,47.0,2021-52,3071.0,Epidemic intelligence national data,601.911565300791,2.779532688063219,0.12425307459571575
+VGB,deaths,2021,52,True,British Virgin Islands,America,30237,0.0,2021-52,39.0,Epidemic intelligence national data,0.0,-inf,0.0
+VIR,cases,2021,52,True,United States Virgin Islands,America,104423,69.0,2021-52,10290.0,Epidemic intelligence national data,2498.4917115961,3.39767791306856,0.5157655956695067
+VIR,deaths,2021,52,True,United States Virgin Islands,America,104423,0.0,2021-52,89.0,Epidemic intelligence national data,9.57643431044885,0.9812038339683404,0.04136460996779125
+VNM,cases,2021,52,True,Vietnam,Asia,97338583,112050.0,2021-52,1778976.0,Epidemic intelligence national data,245.018976699096,2.3891997217381777,0.05057945875146105
+VNM,deaths,2021,52,True,Vietnam,Asia,97338583,1485.0,2021-52,33021.0,Epidemic intelligence national data,35.4946609403591,1.55016303196998,0.15331623004346934
+VUT,cases,2021,52,True,Vanuatu,Oceania,307150,1.0,2021-52,7.0,Epidemic intelligence national data,0.0,-inf,0.0
+VUT,deaths,2021,52,True,Vanuatu,Oceania,307150,0.0,2021-52,0.0,Epidemic intelligence national data,0.0,-inf,0.0
+WLF,cases,2021,52,True,Wallis And Futuna,Oceania,11246,0.0,2021-52,454.0,Epidemic intelligence national data,0.0,-inf,0.0
+WLF,deaths,2021,52,True,Wallis And Futuna,Oceania,11246,0.0,2021-52,7.0,Epidemic intelligence national data,0.0,-inf,0.0
+WSM,cases,2021,52,True,Samoa,Oceania,198410,1.0,2021-52,2.0,Epidemic intelligence national data,0.0,-inf,0.0
+WSM,deaths,2021,52,True,Samoa,Oceania,198410,0.0,2021-52,0.0,Epidemic intelligence national data,0.0,-inf,0.0
+XKX,cases,2021,52,True,Kosovo,Europe,1795666,57.0,2021-52,161598.0,Epidemic intelligence national data,18.5446513995364,1.26821867391803,0.003828186874174209
+XKX,deaths,2021,52,True,Kosovo,Europe,1795666,2.0,2021-52,2991.0,Epidemic intelligence national data,1.11379287684904,0.046804436075694,0.004810935515476355
+YEM,cases,2021,52,True,Yemen,Asia,29825968,32.0,2021-52,10130.0,Epidemic intelligence national data,0.0972307084886566,-1.0121965496734797,2.0071411103054717e-05
+YEM,deaths,2021,52,True,Yemen,Asia,29825968,5.0,2021-52,1984.0,Epidemic intelligence national data,0.268222644106639,-0.571504560580492,0.0011585653593316177
+ZAF,cases,2021,52,True,South Africa,Africa,59308690,140577.0,2021-52,3468079.0,Epidemic intelligence national data,269.783399363567,2.431015222627923,0.055691597866300395
+ZAF,deaths,2021,52,True,South Africa,Africa,59308690,211.0,2021-52,91198.0,Epidemic intelligence national data,14.3317952225888,1.1563005941957856,0.06190499514770374
+ZMB,cases,2021,52,True,Zambia,Africa,18383956,5431.0,2021-52,259677.0,Epidemic intelligence national data,234.818882290623,2.3707330165317333,0.048473845295128826
+ZMB,deaths,2021,52,True,Zambia,Africa,18383956,9.0,2021-52,3743.0,Epidemic intelligence national data,3.48129640867287,0.5417410020750602,0.0150371697292284
+ZWE,cases,2021,52,True,Zimbabwe,Africa,14862927,25656.0,2021-52,214878.0,Epidemic intelligence national data,148.571004890221,2.171934060804994,0.03066962859263209
+ZWE,deaths,2021,52,True,Zimbabwe,Africa,14862927,49.0,2021-52,5032.0,Epidemic intelligence national data,16.4839671216847,1.2170617396255943,0.07120112231819022

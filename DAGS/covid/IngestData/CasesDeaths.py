@@ -1,7 +1,8 @@
-from pandas import read_json
+from pandas import read_json, read_csv
 from io import StringIO
 from requests import get
 from numpy import log10
+
 
 save_path = r'../data'
 
@@ -67,6 +68,7 @@ class Cases_Deaths:
         .assign(last_year =  lambda x: x.groupby(['country_code','indicator']).year.transform(lambda value: value.max()==value ))\
         .query('last_year').reset_index().merge(self.df, on= ['country_code','year','weeknum','indicator'],how='inner')
         df['log_scale'] = df.groupby('indicator').rate_14_day.transform(log10)
+        df['minmaxnorm'] = df.groupby('indicator').rate_14_day.transform(lambda x: (x-min(x))/(max(x)-min(x)))
         self.save_df_to_csv(df,'Lasted_cases_deaths_countries')
         
 
@@ -79,7 +81,7 @@ class HospitalAdmission:
         self.save_path = save_path
 
     def ingest(self):
-        self.df = pd.read_csv(self.url)
+        self.df = read_csv(self.url)
 
     def pivot_df(self):
         return self.df.assign(year_week= lambda x: x.year_week.str.replace('W',''))\
@@ -92,7 +94,7 @@ class Vaccionation:
         self.url = 'https://opendata.ecdc.europa.eu/covid19/vaccine_tracker/csv/data.csv'
 
     def ingest(self):
-        self.df = pd.read_csv('https://opendata.ecdc.europa.eu/covid19/vaccine_tracker/csv/data.csv')\
+        self.df = read_csv('https://opendata.ecdc.europa.eu/covid19/vaccine_tracker/csv/data.csv')\
             .rename(columns={
                                 'YearWeekISO': 'year_week', 
                                 'ReportingCountry':'Alpha-2 code'
