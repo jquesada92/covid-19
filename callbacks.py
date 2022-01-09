@@ -6,6 +6,7 @@ import pandas as pd
 
 
 df = pd.read_csv('data/Lasted_cases_deaths_countries.csv')
+margin= dict(l=30, r=30, b=10, t=0)
 
 CACHE_CONFIG = {
     'CACHE_TYPE': 'filesystem',
@@ -44,13 +45,13 @@ def register_Callback(app):
                                                                         )                 
                         ))
         fig_map.update_layout(
+        margin = margin,
         geo=dict(
         showframe=False,
         showcoastlines=False,
         projection_type='equirectangular'
         ),
-        margin=dict(l=30, r=30, b=10, t=0),
-            autosize=True,
+         autosize=True,
             plot_bgcolor=	"#f8f9fa",
             paper_bgcolor="#f8f9fa",
             height = 415)
@@ -71,5 +72,9 @@ def register_Callback(app):
             df,  x="log_scale" if marginal=='On' else 'weekly_count',  color="indicator",
             marginal='box', 
             hover_data=df.columns)
-        
+        fig_dist.update_layout(margin=margin,
+         autosize=True,
+            plot_bgcolor=	"#f8f9fa",
+            paper_bgcolor="#f8f9fa",
+            height = 415)
         return fig_dist
