@@ -71,6 +71,5 @@ def register_Callback(app):
         fig_dist.update_layout(
          autosize=True,
             plot_bgcolor=	"#f8f9fa",
-            paper_bgcolor="#f8f9fa",
-            height = 415)
+            paper_bgcolor="#f8f9fa")
         return fig_dist
