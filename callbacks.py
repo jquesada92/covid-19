@@ -27,7 +27,6 @@ def register_Callback(app):
         Input("_indicator", "value")
         ])
     def MapCloropleth(indicator):
-        
         df_filter = df.copy().loc[lambda x: x.indicator==f"{indicator}"]
         fig_map = go.Figure(go.Choropleth(
                 locations=df_filter.country_code,
@@ -66,7 +65,8 @@ def register_Callback(app):
     def Displot(scale):
         fig_dist  = px.histogram(
             df,  x=scale,  color="indicator",
-            marginal='box', 
+            marginal='box',
+            opacity = 0.20,
             hover_data=df.columns)
         fig_dist.update_layout(
          autosize=True,
